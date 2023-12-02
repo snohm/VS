@@ -1,1748 +1,1747 @@
-"Country or Area","Year(s)","GENDER","Value","Value Footnotes"
-"Afghanistan","2012","Male","15",""
-"Afghanistan","2012","Female","17",""
-"Afghanistan","2012","Both sexes","16",""
-"Afghanistan","2000","Male","14",""
-"Afghanistan","2000","Female","16",""
-"Afghanistan","2000","Both sexes","15",""
-"Afghanistan","1990","Male","13",""
-"Afghanistan","1990","Female","15",""
-"Afghanistan","1990","Both sexes","14",""
-"Albania","2012","Male","18",""
-"Albania","2012","Female","20",""
-"Albania","2012","Both sexes","19",""
-"Albania","2000","Male","15",""
-"Albania","2000","Female","18",""
-"Albania","2000","Both sexes","17",""
-"Albania","1990","Male","15",""
-"Albania","1990","Female","18",""
-"Albania","1990","Both sexes","16",""
-"Algeria","2012","Male","17",""
-"Algeria","2012","Female","19",""
-"Algeria","2012","Both sexes","18",""
-"Algeria","2000","Male","17",""
-"Algeria","2000","Female","18",""
-"Algeria","2000","Both sexes","18",""
-"Algeria","1990","Male","16",""
-"Algeria","1990","Female","18",""
-"Algeria","1990","Both sexes","17",""
-"Andorra","2012","Male","23",""
-"Andorra","2012","Female","28",""
-"Andorra","2012","Both sexes","25",""
-"Andorra","2000","Male","21",""
-"Andorra","2000","Female","26",""
-"Andorra","2000","Both sexes","23",""
-"Andorra","1990","Male","19",""
-"Andorra","1990","Female","24",""
-"Andorra","1990","Both sexes","22",""
-"Angola","2012","Male","15",""
-"Angola","2012","Female","16",""
-"Angola","2012","Both sexes","16",""
-"Angola","2000","Male","14",""
-"Angola","2000","Female","15",""
-"Angola","2000","Both sexes","15",""
-"Angola","1990","Male","13",""
-"Angola","1990","Female","14",""
-"Angola","1990","Both sexes","14",""
-"Antigua and Barbuda","2012","Male","21",""
-"Antigua and Barbuda","2012","Female","23",""
-"Antigua and Barbuda","2012","Both sexes","22",""
-"Antigua and Barbuda","2000","Male","20",""
-"Antigua and Barbuda","2000","Female","20",""
-"Antigua and Barbuda","2000","Both sexes","20",""
-"Antigua and Barbuda","1990","Male","17",""
-"Antigua and Barbuda","1990","Female","18",""
-"Antigua and Barbuda","1990","Both sexes","17",""
-"Argentina","2012","Male","19",""
-"Argentina","2012","Female","24",""
-"Argentina","2012","Both sexes","21",""
-"Argentina","2000","Male","18",""
-"Argentina","2000","Female","23",""
-"Argentina","2000","Both sexes","21",""
-"Argentina","1990","Male","17",""
-"Argentina","1990","Female","22",""
-"Argentina","1990","Both sexes","20",""
-"Armenia","2012","Male","15",""
-"Armenia","2012","Female","19",""
-"Armenia","2012","Both sexes","17",""
-"Armenia","2000","Male","16",""
-"Armenia","2000","Female","19",""
-"Armenia","2000","Both sexes","18",""
-"Armenia","1990","Male","14",""
-"Armenia","1990","Female","18",""
-"Armenia","1990","Both sexes","16",""
-"Australia","2012","Male","24",""
-"Australia","2012","Female","27",""
-"Australia","2012","Both sexes","25",""
-"Australia","2000","Male","21",""
-"Australia","2000","Female","25",""
-"Australia","2000","Both sexes","23",""
-"Australia","1990","Male","19",""
-"Australia","1990","Female","23",""
-"Australia","1990","Both sexes","21",""
-"Austria","2012","Male","22",""
-"Austria","2012","Female","25",""
-"Austria","2012","Both sexes","24",""
-"Austria","2000","Male","20",""
-"Austria","2000","Female","24",""
-"Austria","2000","Both sexes","22",""
-"Austria","1990","Male","18",""
-"Austria","1990","Female","22",""
-"Austria","1990","Both sexes","21",""
-"Azerbaijan","2012","Male","17",""
-"Azerbaijan","2012","Female","20",""
-"Azerbaijan","2012","Both sexes","19",""
-"Azerbaijan","2000","Male","16",""
-"Azerbaijan","2000","Female","18",""
-"Azerbaijan","2000","Both sexes","17",""
-"Azerbaijan","1990","Male","15",""
-"Azerbaijan","1990","Female","17",""
-"Azerbaijan","1990","Both sexes","16",""
-"Bahamas","2012","Male","19",""
-"Bahamas","2012","Female","23",""
-"Bahamas","2012","Both sexes","21",""
-"Bahamas","2000","Male","18",""
-"Bahamas","2000","Female","23",""
-"Bahamas","2000","Both sexes","21",""
-"Bahamas","1990","Male","17",""
-"Bahamas","1990","Female","20",""
-"Bahamas","1990","Both sexes","19",""
-"Bahrain","2012","Male","19",""
-"Bahrain","2012","Female","21",""
-"Bahrain","2012","Both sexes","20",""
-"Bahrain","2000","Male","18",""
-"Bahrain","2000","Female","19",""
-"Bahrain","2000","Both sexes","18",""
-"Bahrain","1990","Male","17",""
-"Bahrain","1990","Female","19",""
-"Bahrain","1990","Both sexes","18",""
-"Bangladesh","2012","Male","18",""
-"Bangladesh","2012","Female","19",""
-"Bangladesh","2012","Both sexes","18",""
-"Bangladesh","2000","Male","17",""
-"Bangladesh","2000","Female","18",""
-"Bangladesh","2000","Both sexes","18",""
-"Bangladesh","1990","Male","17",""
-"Bangladesh","1990","Female","17",""
-"Bangladesh","1990","Both sexes","17",""
-"Barbados","2012","Male","21",""
-"Barbados","2012","Female","25",""
-"Barbados","2012","Both sexes","23",""
-"Barbados","2000","Male","20",""
-"Barbados","2000","Female","23",""
-"Barbados","2000","Both sexes","22",""
-"Barbados","1990","Male","18",""
-"Barbados","1990","Female","22",""
-"Barbados","1990","Both sexes","20",""
-"Belarus","2012","Male","15",""
-"Belarus","2012","Female","21",""
-"Belarus","2012","Both sexes","19",""
-"Belarus","2000","Male","14",""
-"Belarus","2000","Female","20",""
-"Belarus","2000","Both sexes","17",""
-"Belarus","1990","Male","16",""
-"Belarus","1990","Female","21",""
-"Belarus","1990","Both sexes","19",""
-"Belgium","2012","Male","21",""
-"Belgium","2012","Female","25",""
-"Belgium","2012","Both sexes","23",""
-"Belgium","2000","Male","19",""
-"Belgium","2000","Female","24",""
-"Belgium","2000","Both sexes","22",""
-"Belgium","1990","Male","18",""
-"Belgium","1990","Female","23",""
-"Belgium","1990","Both sexes","21",""
-"Belize","2012","Male","19",""
-"Belize","2012","Female","23",""
-"Belize","2012","Both sexes","21",""
-"Belize","2000","Male","17",""
-"Belize","2000","Female","21",""
-"Belize","2000","Both sexes","19",""
-"Belize","1990","Male","18",""
-"Belize","1990","Female","20",""
-"Belize","1990","Both sexes","19",""
-"Benin","2012","Male","15",""
-"Benin","2012","Female","16",""
-"Benin","2012","Both sexes","16",""
-"Benin","2000","Male","14",""
-"Benin","2000","Female","15",""
-"Benin","2000","Both sexes","15",""
-"Benin","1990","Male","14",""
-"Benin","1990","Female","16",""
-"Benin","1990","Both sexes","15",""
-"Bhutan","2012","Male","19",""
-"Bhutan","2012","Female","19",""
-"Bhutan","2012","Both sexes","19",""
-"Bhutan","2000","Male","17",""
-"Bhutan","2000","Female","17",""
-"Bhutan","2000","Both sexes","17",""
-"Bhutan","1990","Male","16",""
-"Bhutan","1990","Female","16",""
-"Bhutan","1990","Both sexes","16",""
-"Bolivia (Plurinational State of)","2012","Male","18",""
-"Bolivia (Plurinational State of)","2012","Female","20",""
-"Bolivia (Plurinational State of)","2012","Both sexes","19",""
-"Bolivia (Plurinational State of)","2000","Male","17",""
-"Bolivia (Plurinational State of)","2000","Female","19",""
-"Bolivia (Plurinational State of)","2000","Both sexes","18",""
-"Bolivia (Plurinational State of)","1990","Male","16",""
-"Bolivia (Plurinational State of)","1990","Female","18",""
-"Bolivia (Plurinational State of)","1990","Both sexes","17",""
-"Bosnia and Herzegovina","2012","Male","19",""
-"Bosnia and Herzegovina","2012","Female","22",""
-"Bosnia and Herzegovina","2012","Both sexes","21",""
-"Bosnia and Herzegovina","2000","Male","18",""
-"Bosnia and Herzegovina","2000","Female","21",""
-"Bosnia and Herzegovina","2000","Both sexes","19",""
-"Bosnia and Herzegovina","1990","Male","16",""
-"Bosnia and Herzegovina","1990","Female","19",""
-"Bosnia and Herzegovina","1990","Both sexes","18",""
-"Botswana","2012","Male","18",""
-"Botswana","2012","Female","18",""
-"Botswana","2012","Both sexes","18",""
-"Botswana","2000","Male","16",""
-"Botswana","2000","Female","17",""
-"Botswana","2000","Both sexes","17",""
-"Botswana","1990","Male","18",""
-"Botswana","1990","Female","17",""
-"Botswana","1990","Both sexes","17",""
-"Brazil","2012","Male","19",""
-"Brazil","2012","Female","22",""
-"Brazil","2012","Both sexes","21",""
-"Brazil","2000","Male","18",""
-"Brazil","2000","Female","21",""
-"Brazil","2000","Both sexes","19",""
-"Brazil","1990","Male","16",""
-"Brazil","1990","Female","19",""
-"Brazil","1990","Both sexes","18",""
-"Brunei Darussalam","2012","Male","20",""
-"Brunei Darussalam","2012","Female","21",""
-"Brunei Darussalam","2012","Both sexes","21",""
-"Brunei Darussalam","2000","Male","19",""
-"Brunei Darussalam","2000","Female","22",""
-"Brunei Darussalam","2000","Both sexes","21",""
-"Brunei Darussalam","1990","Male","17",""
-"Brunei Darussalam","1990","Female","20",""
-"Brunei Darussalam","1990","Both sexes","18",""
-"Bulgaria","2012","Male","17",""
-"Bulgaria","2012","Female","21",""
-"Bulgaria","2012","Both sexes","19",""
-"Bulgaria","2000","Male","16",""
-"Bulgaria","2000","Female","19",""
-"Bulgaria","2000","Both sexes","18",""
-"Bulgaria","1990","Male","16",""
-"Bulgaria","1990","Female","19",""
-"Bulgaria","1990","Both sexes","18",""
-"Burkina Faso","2012","Male","15",""
-"Burkina Faso","2012","Female","15",""
-"Burkina Faso","2012","Both sexes","15",""
-"Burkina Faso","2000","Male","14",""
-"Burkina Faso","2000","Female","15",""
-"Burkina Faso","2000","Both sexes","15",""
-"Burkina Faso","1990","Male","14",""
-"Burkina Faso","1990","Female","15",""
-"Burkina Faso","1990","Both sexes","15",""
-"Burundi","2012","Male","15",""
-"Burundi","2012","Female","17",""
-"Burundi","2012","Both sexes","16",""
-"Burundi","2000","Male","15",""
-"Burundi","2000","Female","16",""
-"Burundi","2000","Both sexes","15",""
-"Burundi","1990","Male","14",""
-"Burundi","1990","Female","16",""
-"Burundi","1990","Both sexes","15",""
-"Cabo Verde","2012","Male","17",""
-"Cabo Verde","2012","Female","22",""
-"Cabo Verde","2012","Both sexes","20",""
-"Cabo Verde","2000","Male","16",""
-"Cabo Verde","2000","Female","19",""
-"Cabo Verde","2000","Both sexes","18",""
-"Cabo Verde","1990","Male","16",""
-"Cabo Verde","1990","Female","18",""
-"Cabo Verde","1990","Both sexes","17",""
-"Cambodia","2012","Male","22",""
-"Cambodia","2012","Female","25",""
-"Cambodia","2012","Both sexes","24",""
-"Cambodia","2000","Male","19",""
-"Cambodia","2000","Female","22",""
-"Cambodia","2000","Both sexes","20",""
-"Cambodia","1990","Male","16",""
-"Cambodia","1990","Female","18",""
-"Cambodia","1990","Both sexes","17",""
-"Cameroon","2012","Male","16",""
-"Cameroon","2012","Female","17",""
-"Cameroon","2012","Both sexes","16",""
-"Cameroon","2000","Male","15",""
-"Cameroon","2000","Female","16",""
-"Cameroon","2000","Both sexes","16",""
-"Cameroon","1990","Male","15",""
-"Cameroon","1990","Female","16",""
-"Cameroon","1990","Both sexes","16",""
-"Canada","2012","Male","23",""
-"Canada","2012","Female","26",""
-"Canada","2012","Both sexes","25",""
-"Canada","2000","Male","21",""
-"Canada","2000","Female","25",""
-"Canada","2000","Both sexes","23",""
-"Canada","1990","Male","19",""
-"Canada","1990","Female","24",""
-"Canada","1990","Both sexes","22",""
-"Central African Republic","2012","Male","15",""
-"Central African Republic","2012","Female","16",""
-"Central African Republic","2012","Both sexes","16",""
-"Central African Republic","2000","Male","14",""
-"Central African Republic","2000","Female","15",""
-"Central African Republic","2000","Both sexes","15",""
-"Central African Republic","1990","Male","14",""
-"Central African Republic","1990","Female","15",""
-"Central African Republic","1990","Both sexes","15",""
-"Chad","2012","Male","14",""
-"Chad","2012","Female","15",""
-"Chad","2012","Both sexes","15",""
-"Chad","2000","Male","13",""
-"Chad","2000","Female","15",""
-"Chad","2000","Both sexes","14",""
-"Chad","1990","Male","13",""
-"Chad","1990","Female","15",""
-"Chad","1990","Both sexes","14",""
-"Chile","2012","Male","22",""
-"Chile","2012","Female","26",""
-"Chile","2012","Both sexes","24",""
-"Chile","2000","Male","20",""
-"Chile","2000","Female","24",""
-"Chile","2000","Both sexes","22",""
-"Chile","1990","Male","17",""
-"Chile","1990","Female","21",""
-"Chile","1990","Both sexes","19",""
-"China","2012","Male","18",""
-"China","2012","Female","21",""
-"China","2012","Both sexes","19",""
-"China","2000","Male","17",""
-"China","2000","Female","20",""
-"China","2000","Both sexes","18",""
-"China","1990","Male","16",""
-"China","1990","Female","19",""
-"China","1990","Both sexes","18",""
-"Colombia","2012","Male","23",""
-"Colombia","2012","Female","27",""
-"Colombia","2012","Both sexes","25",""
-"Colombia","2000","Male","21",""
-"Colombia","2000","Female","24",""
-"Colombia","2000","Both sexes","22",""
-"Colombia","1990","Male","19",""
-"Colombia","1990","Female","22",""
-"Colombia","1990","Both sexes","21",""
-"Comoros","2012","Male","15",""
-"Comoros","2012","Female","17",""
-"Comoros","2012","Both sexes","16",""
-"Comoros","2000","Male","15",""
-"Comoros","2000","Female","16",""
-"Comoros","2000","Both sexes","15",""
-"Comoros","1990","Male","14",""
-"Comoros","1990","Female","16",""
-"Comoros","1990","Both sexes","15",""
-"Congo","2012","Male","17",""
-"Congo","2012","Female","18",""
-"Congo","2012","Both sexes","17",""
-"Congo","2000","Male","16",""
-"Congo","2000","Female","17",""
-"Congo","2000","Both sexes","16",""
-"Congo","1990","Male","16",""
-"Congo","1990","Female","17",""
-"Congo","1990","Both sexes","16",""
-"Cook Islands","2012","Male","20",""
-"Cook Islands","2012","Female","22",""
-"Cook Islands","2012","Both sexes","21",""
-"Cook Islands","2000","Male","16",""
-"Cook Islands","2000","Female","20",""
-"Cook Islands","2000","Both sexes","18",""
-"Cook Islands","1990","Male","17",""
-"Cook Islands","1990","Female","18",""
-"Cook Islands","1990","Both sexes","17",""
-"Costa Rica","2012","Male","22",""
-"Costa Rica","2012","Female","25",""
-"Costa Rica","2012","Both sexes","23",""
-"Costa Rica","2000","Male","21",""
-"Costa Rica","2000","Female","23",""
-"Costa Rica","2000","Both sexes","22",""
-"Costa Rica","1990","Male","21",""
-"Costa Rica","1990","Female","22",""
-"Costa Rica","1990","Both sexes","22",""
-"Côte d’Ivoire","2012","Male","15",""
-"Côte d’Ivoire","2012","Female","16",""
-"Côte d’Ivoire","2012","Both sexes","16",""
-"Côte d’Ivoire","2000","Male","15",""
-"Côte d’Ivoire","2000","Female","16",""
-"Côte d’Ivoire","2000","Both sexes","15",""
-"Côte d’Ivoire","1990","Male","15",""
-"Côte d’Ivoire","1990","Female","17",""
-"Côte d’Ivoire","1990","Both sexes","16",""
-"Croatia","2012","Male","19",""
-"Croatia","2012","Female","23",""
-"Croatia","2012","Both sexes","21",""
-"Croatia","2000","Male","17",""
-"Croatia","2000","Female","21",""
-"Croatia","2000","Both sexes","19",""
-"Croatia","1990","Male","16",""
-"Croatia","1990","Female","20",""
-"Croatia","1990","Both sexes","18",""
-"Cuba","2012","Male","21",""
-"Cuba","2012","Female","24",""
-"Cuba","2012","Both sexes","22",""
-"Cuba","2000","Male","20",""
-"Cuba","2000","Female","23",""
-"Cuba","2000","Both sexes","22",""
-"Cuba","1990","Male","19",""
-"Cuba","1990","Female","21",""
-"Cuba","1990","Both sexes","20",""
-"Cyprus","2012","Male","23",""
-"Cyprus","2012","Female","26",""
-"Cyprus","2012","Both sexes","24",""
-"Cyprus","2000","Male","19",""
-"Cyprus","2000","Female","22",""
-"Cyprus","2000","Both sexes","21",""
-"Cyprus","1990","Male","19",""
-"Cyprus","1990","Female","22",""
-"Cyprus","1990","Both sexes","20",""
-"Czech Republic","2012","Male","19",""
-"Czech Republic","2012","Female","23",""
-"Czech Republic","2012","Both sexes","21",""
-"Czech Republic","2000","Male","17",""
-"Czech Republic","2000","Female","21",""
-"Czech Republic","2000","Both sexes","19",""
-"Czech Republic","1990","Male","15",""
-"Czech Republic","1990","Female","19",""
-"Czech Republic","1990","Both sexes","17",""
-"Democratic People's Republic of Korea","2012","Male","14",""
-"Democratic People's Republic of Korea","2012","Female","19",""
-"Democratic People's Republic of Korea","2012","Both sexes","17",""
-"Democratic People's Republic of Korea","2000","Male","12",""
-"Democratic People's Republic of Korea","2000","Female","18",""
-"Democratic People's Republic of Korea","2000","Both sexes","16",""
-"Democratic People's Republic of Korea","1990","Male","14",""
-"Democratic People's Republic of Korea","1990","Female","20",""
-"Democratic People's Republic of Korea","1990","Both sexes","17",""
-"Democratic Republic of the Congo","2012","Male","15",""
-"Democratic Republic of the Congo","2012","Female","16",""
-"Democratic Republic of the Congo","2012","Both sexes","15",""
-"Democratic Republic of the Congo","2000","Male","14",""
-"Democratic Republic of the Congo","2000","Female","15",""
-"Democratic Republic of the Congo","2000","Both sexes","15",""
-"Democratic Republic of the Congo","1990","Male","14",""
-"Democratic Republic of the Congo","1990","Female","16",""
-"Democratic Republic of the Congo","1990","Both sexes","15",""
-"Denmark","2012","Male","21",""
-"Denmark","2012","Female","24",""
-"Denmark","2012","Both sexes","23",""
-"Denmark","2000","Male","19",""
-"Denmark","2000","Female","22",""
-"Denmark","2000","Both sexes","21",""
-"Denmark","1990","Male","18",""
-"Denmark","1990","Female","22",""
-"Denmark","1990","Both sexes","20",""
-"Djibouti","2012","Male","15",""
-"Djibouti","2012","Female","17",""
-"Djibouti","2012","Both sexes","16",""
-"Djibouti","2000","Male","15",""
-"Djibouti","2000","Female","16",""
-"Djibouti","2000","Both sexes","16",""
-"Djibouti","1990","Male","15",""
-"Djibouti","1990","Female","16",""
-"Djibouti","1990","Both sexes","15",""
-"Dominica","2012","Male","21",""
-"Dominica","2012","Female","22",""
-"Dominica","2012","Both sexes","21",""
-"Dominica","2000","Male","20",""
-"Dominica","2000","Female","21",""
-"Dominica","2000","Both sexes","21",""
-"Dominica","1990","Male","19",""
-"Dominica","1990","Female","21",""
-"Dominica","1990","Both sexes","20",""
-"Dominican Republic","2012","Male","23",""
-"Dominican Republic","2012","Female","23",""
-"Dominican Republic","2012","Both sexes","23",""
-"Dominican Republic","2000","Male","22",""
-"Dominican Republic","2000","Female","22",""
-"Dominican Republic","2000","Both sexes","22",""
-"Dominican Republic","1990","Male","19",""
-"Dominican Republic","1990","Female","20",""
-"Dominican Republic","1990","Both sexes","19",""
-"Ecuador","2012","Male","21",""
-"Ecuador","2012","Female","23",""
-"Ecuador","2012","Both sexes","22",""
-"Ecuador","2000","Male","20",""
-"Ecuador","2000","Female","23",""
-"Ecuador","2000","Both sexes","21",""
-"Ecuador","1990","Male","19",""
-"Ecuador","1990","Female","21",""
-"Ecuador","1990","Both sexes","20",""
-"Egypt","2012","Male","16",""
-"Egypt","2012","Female","19",""
-"Egypt","2012","Both sexes","17",""
-"Egypt","2000","Male","16",""
-"Egypt","2000","Female","18",""
-"Egypt","2000","Both sexes","17",""
-"Egypt","1990","Male","16",""
-"Egypt","1990","Female","18",""
-"Egypt","1990","Both sexes","17",""
-"El Salvador","2012","Male","20",""
-"El Salvador","2012","Female","23",""
-"El Salvador","2012","Both sexes","22",""
-"El Salvador","2000","Male","20",""
-"El Salvador","2000","Female","22",""
-"El Salvador","2000","Both sexes","21",""
-"El Salvador","1990","Male","18",""
-"El Salvador","1990","Female","20",""
-"El Salvador","1990","Both sexes","19",""
-"Equatorial Guinea","2012","Male","16",""
-"Equatorial Guinea","2012","Female","17",""
-"Equatorial Guinea","2012","Both sexes","16",""
-"Equatorial Guinea","2000","Male","15",""
-"Equatorial Guinea","2000","Female","16",""
-"Equatorial Guinea","2000","Both sexes","15",""
-"Equatorial Guinea","1990","Male","14",""
-"Equatorial Guinea","1990","Female","15",""
-"Equatorial Guinea","1990","Both sexes","15",""
-"Eritrea","2012","Male","13",""
-"Eritrea","2012","Female","17",""
-"Eritrea","2012","Both sexes","15",""
-"Eritrea","2000","Male","12",""
-"Eritrea","2000","Female","15",""
-"Eritrea","2000","Both sexes","14",""
-"Eritrea","1990","Male","11",""
-"Eritrea","1990","Female","13",""
-"Eritrea","1990","Both sexes","12",""
-"Estonia","2012","Male","18",""
-"Estonia","2012","Female","24",""
-"Estonia","2012","Both sexes","21",""
-"Estonia","2000","Male","15",""
-"Estonia","2000","Female","21",""
-"Estonia","2000","Both sexes","19",""
-"Estonia","1990","Male","15",""
-"Estonia","1990","Female","20",""
-"Estonia","1990","Both sexes","18",""
-"Ethiopia","2012","Male","17",""
-"Ethiopia","2012","Female","19",""
-"Ethiopia","2012","Both sexes","18",""
-"Ethiopia","2000","Male","15",""
-"Ethiopia","2000","Female","17",""
-"Ethiopia","2000","Both sexes","16",""
-"Ethiopia","1990","Male","14",""
-"Ethiopia","1990","Female","15",""
-"Ethiopia","1990","Both sexes","15",""
-"Fiji","2012","Male","15",""
-"Fiji","2012","Female","19",""
-"Fiji","2012","Both sexes","17",""
-"Fiji","2000","Male","15",""
-"Fiji","2000","Female","17",""
-"Fiji","2000","Both sexes","16",""
-"Fiji","1990","Male","14",""
-"Fiji","1990","Female","16",""
-"Fiji","1990","Both sexes","15",""
-"Finland","2012","Male","22",""
-"Finland","2012","Female","26",""
-"Finland","2012","Both sexes","24",""
-"Finland","2000","Male","19",""
-"Finland","2000","Female","24",""
-"Finland","2000","Both sexes","22",""
-"Finland","1990","Male","17",""
-"Finland","1990","Female","22",""
-"Finland","1990","Both sexes","20",""
-"France","2012","Male","23",""
-"France","2012","Female","27",""
-"France","2012","Both sexes","25",""
-"France","2000","Male","20",""
-"France","2000","Female","26",""
-"France","2000","Both sexes","23",""
-"France","1990","Male","20",""
-"France","1990","Female","25",""
-"France","1990","Both sexes","22",""
-"Gabon","2012","Male","18",""
-"Gabon","2012","Female","19",""
-"Gabon","2012","Both sexes","18",""
-"Gabon","2000","Male","17",""
-"Gabon","2000","Female","18",""
-"Gabon","2000","Both sexes","17",""
-"Gabon","1990","Male","17",""
-"Gabon","1990","Female","18",""
-"Gabon","1990","Both sexes","17",""
-"Gambia","2012","Male","16",""
-"Gambia","2012","Female","17",""
-"Gambia","2012","Both sexes","17",""
-"Gambia","2000","Male","16",""
-"Gambia","2000","Female","17",""
-"Gambia","2000","Both sexes","16",""
-"Gambia","1990","Male","15",""
-"Gambia","1990","Female","16",""
-"Gambia","1990","Both sexes","16",""
-"Georgia","2012","Male","17",""
-"Georgia","2012","Female","22",""
-"Georgia","2012","Both sexes","20",""
-"Georgia","2000","Male","17",""
-"Georgia","2000","Female","20",""
-"Georgia","2000","Both sexes","19",""
-"Georgia","1990","Male","17",""
-"Georgia","1990","Female","20",""
-"Georgia","1990","Both sexes","19",""
-"Germany","2012","Male","22",""
-"Germany","2012","Female","25",""
-"Germany","2012","Both sexes","24",""
-"Germany","2000","Male","20",""
-"Germany","2000","Female","24",""
-"Germany","2000","Both sexes","22",""
-"Germany","1990","Male","18",""
-"Germany","1990","Female","22",""
-"Germany","1990","Both sexes","20",""
-"Ghana","2012","Male","17",""
-"Ghana","2012","Female","18",""
-"Ghana","2012","Both sexes","17",""
-"Ghana","2000","Male","16",""
-"Ghana","2000","Female","17",""
-"Ghana","2000","Both sexes","17",""
-"Ghana","1990","Male","16",""
-"Ghana","1990","Female","17",""
-"Ghana","1990","Both sexes","16",""
-"Greece","2012","Male","22",""
-"Greece","2012","Female","26",""
-"Greece","2012","Both sexes","24",""
-"Greece","2000","Male","21",""
-"Greece","2000","Female","23",""
-"Greece","2000","Both sexes","22",""
-"Greece","1990","Male","20",""
-"Greece","1990","Female","23",""
-"Greece","1990","Both sexes","21",""
-"Grenada","2012","Male","16",""
-"Grenada","2012","Female","23",""
-"Grenada","2012","Both sexes","19",""
-"Grenada","2000","Male","17",""
-"Grenada","2000","Female","22",""
-"Grenada","2000","Both sexes","20",""
-"Grenada","1990","Male","15",""
-"Grenada","1990","Female","20",""
-"Grenada","1990","Both sexes","18",""
-"Guatemala","2012","Male","20",""
-"Guatemala","2012","Female","23",""
-"Guatemala","2012","Both sexes","21",""
-"Guatemala","2000","Male","19",""
-"Guatemala","2000","Female","21",""
-"Guatemala","2000","Both sexes","20",""
-"Guatemala","1990","Male","17",""
-"Guatemala","1990","Female","19",""
-"Guatemala","1990","Both sexes","18",""
-"Guinea","2012","Male","16",""
-"Guinea","2012","Female","17",""
-"Guinea","2012","Both sexes","16",""
-"Guinea","2000","Male","15",""
-"Guinea","2000","Female","16",""
-"Guinea","2000","Both sexes","15",""
-"Guinea","1990","Male","15",""
-"Guinea","1990","Female","16",""
-"Guinea","1990","Both sexes","15",""
-"Guinea-Bissau","2012","Male","14",""
-"Guinea-Bissau","2012","Female","15",""
-"Guinea-Bissau","2012","Both sexes","15",""
-"Guinea-Bissau","2000","Male","14",""
-"Guinea-Bissau","2000","Female","15",""
-"Guinea-Bissau","2000","Both sexes","15",""
-"Guinea-Bissau","1990","Male","14",""
-"Guinea-Bissau","1990","Female","15",""
-"Guinea-Bissau","1990","Both sexes","14",""
-"Guyana","2012","Male","13",""
-"Guyana","2012","Female","17",""
-"Guyana","2012","Both sexes","15",""
-"Guyana","2000","Male","16",""
-"Guyana","2000","Female","18",""
-"Guyana","2000","Both sexes","17",""
-"Guyana","1990","Male","14",""
-"Guyana","1990","Female","18",""
-"Guyana","1990","Both sexes","16",""
-"Haiti","2012","Male","16",""
-"Haiti","2012","Female","18",""
-"Haiti","2012","Both sexes","17",""
-"Haiti","2000","Male","15",""
-"Haiti","2000","Female","16",""
-"Haiti","2000","Both sexes","16",""
-"Haiti","1990","Male","15",""
-"Haiti","1990","Female","16",""
-"Haiti","1990","Both sexes","15",""
-"Honduras","2012","Male","21",""
-"Honduras","2012","Female","23",""
-"Honduras","2012","Both sexes","22",""
-"Honduras","2000","Male","19",""
-"Honduras","2000","Female","22",""
-"Honduras","2000","Both sexes","21",""
-"Honduras","1990","Male","18",""
-"Honduras","1990","Female","20",""
-"Honduras","1990","Both sexes","19",""
-"Hungary","2012","Male","17",""
-"Hungary","2012","Female","22",""
-"Hungary","2012","Both sexes","20",""
-"Hungary","2000","Male","16",""
-"Hungary","2000","Female","21",""
-"Hungary","2000","Both sexes","18",""
-"Hungary","1990","Male","15",""
-"Hungary","1990","Female","19",""
-"Hungary","1990","Both sexes","17",""
-"Iceland","2012","Male","24",""
-"Iceland","2012","Female","25",""
-"Iceland","2012","Both sexes","25",""
-"Iceland","2000","Male","22",""
-"Iceland","2000","Female","24",""
-"Iceland","2000","Both sexes","23",""
-"Iceland","1990","Male","20",""
-"Iceland","1990","Female","24",""
-"Iceland","1990","Both sexes","22",""
-"India","2012","Male","16",""
-"India","2012","Female","18",""
-"India","2012","Both sexes","17",""
-"India","2000","Male","15",""
-"India","2000","Female","17",""
-"India","2000","Both sexes","16",""
-"India","1990","Male","14",""
-"India","1990","Female","16",""
-"India","1990","Both sexes","15",""
-"Indonesia","2012","Male","17",""
-"Indonesia","2012","Female","19",""
-"Indonesia","2012","Both sexes","18",""
-"Indonesia","2000","Male","16",""
-"Indonesia","2000","Female","18",""
-"Indonesia","2000","Both sexes","17",""
-"Indonesia","1990","Male","15",""
-"Indonesia","1990","Female","17",""
-"Indonesia","1990","Both sexes","16",""
-"Iran (Islamic Republic of)","2012","Male","19",""
-"Iran (Islamic Republic of)","2012","Female","20",""
-"Iran (Islamic Republic of)","2012","Both sexes","20",""
-"Iran (Islamic Republic of)","2000","Male","18",""
-"Iran (Islamic Republic of)","2000","Female","18",""
-"Iran (Islamic Republic of)","2000","Both sexes","18",""
-"Iran (Islamic Republic of)","1990","Male","16",""
-"Iran (Islamic Republic of)","1990","Female","16",""
-"Iran (Islamic Republic of)","1990","Both sexes","16",""
-"Iraq","2012","Male","16",""
-"Iraq","2012","Female","20",""
-"Iraq","2012","Both sexes","18",""
-"Iraq","2000","Male","17",""
-"Iraq","2000","Female","20",""
-"Iraq","2000","Both sexes","18",""
-"Iraq","1990","Male","17",""
-"Iraq","1990","Female","19",""
-"Iraq","1990","Both sexes","18",""
-"Ireland","2012","Male","22",""
-"Ireland","2012","Female","25",""
-"Ireland","2012","Both sexes","24",""
-"Ireland","2000","Male","19",""
-"Ireland","2000","Female","22",""
-"Ireland","2000","Both sexes","20",""
-"Ireland","1990","Male","17",""
-"Ireland","1990","Female","21",""
-"Ireland","1990","Both sexes","19",""
-"Israel","2012","Male","23",""
-"Israel","2012","Female","26",""
-"Israel","2012","Both sexes","24",""
-"Israel","2000","Male","21",""
-"Israel","2000","Female","24",""
-"Israel","2000","Both sexes","22",""
-"Israel","1990","Male","20",""
-"Israel","1990","Female","22",""
-"Israel","1990","Both sexes","21",""
-"Italy","2012","Male","23",""
-"Italy","2012","Female","27",""
-"Italy","2012","Both sexes","25",""
-"Italy","2000","Male","21",""
-"Italy","2000","Female","25",""
-"Italy","2000","Both sexes","23",""
-"Italy","1990","Male","19",""
-"Italy","1990","Female","23",""
-"Italy","1990","Both sexes","21",""
-"Jamaica","2012","Male","20",""
-"Jamaica","2012","Female","23",""
-"Jamaica","2012","Both sexes","21",""
-"Jamaica","2000","Male","19",""
-"Jamaica","2000","Female","22",""
-"Jamaica","2000","Both sexes","21",""
-"Jamaica","1990","Male","19",""
-"Jamaica","1990","Female","21",""
-"Jamaica","1990","Both sexes","20",""
-"Japan","2012","Male","23",""
-"Japan","2012","Female","29",""
-"Japan","2012","Both sexes","26",""
-"Japan","2000","Male","22",""
-"Japan","2000","Female","27",""
-"Japan","2000","Both sexes","25",""
-"Japan","1990","Male","20",""
-"Japan","1990","Female","25",""
-"Japan","1990","Both sexes","23",""
-"Jordan","2012","Male","18",""
-"Jordan","2012","Female","20",""
-"Jordan","2012","Both sexes","19",""
-"Jordan","2000","Male","17",""
-"Jordan","2000","Female","19",""
-"Jordan","2000","Both sexes","18",""
-"Jordan","1990","Male","17",""
-"Jordan","1990","Female","18",""
-"Jordan","1990","Both sexes","17",""
-"Kazakhstan","2012","Male","13",""
-"Kazakhstan","2012","Female","18",""
-"Kazakhstan","2012","Both sexes","16",""
-"Kazakhstan","2000","Male","12",""
-"Kazakhstan","2000","Female","17",""
-"Kazakhstan","2000","Both sexes","15",""
-"Kazakhstan","1990","Male","15",""
-"Kazakhstan","1990","Female","19",""
-"Kazakhstan","1990","Both sexes","17",""
-"Kenya","2012","Male","17",""
-"Kenya","2012","Female","18",""
-"Kenya","2012","Both sexes","18",""
-"Kenya","2000","Male","16",""
-"Kenya","2000","Female","18",""
-"Kenya","2000","Both sexes","17",""
-"Kenya","1990","Male","16",""
-"Kenya","1990","Female","18",""
-"Kenya","1990","Both sexes","17",""
-"Kiribati","2012","Male","16",""
-"Kiribati","2012","Female","18",""
-"Kiribati","2012","Both sexes","17",""
-"Kiribati","2000","Male","15",""
-"Kiribati","2000","Female","17",""
-"Kiribati","2000","Both sexes","16",""
-"Kiribati","1990","Male","15",""
-"Kiribati","1990","Female","17",""
-"Kiribati","1990","Both sexes","16",""
-"Kuwait","2012","Male","21",""
-"Kuwait","2012","Female","21",""
-"Kuwait","2012","Both sexes","21",""
-"Kuwait","2000","Male","18",""
-"Kuwait","2000","Female","18",""
-"Kuwait","2000","Both sexes","18",""
-"Kuwait","1990","Male","19",""
-"Kuwait","1990","Female","18",""
-"Kuwait","1990","Both sexes","18",""
-"Kyrgyzstan","2012","Male","15",""
-"Kyrgyzstan","2012","Female","19",""
-"Kyrgyzstan","2012","Both sexes","17",""
-"Kyrgyzstan","2000","Male","15",""
-"Kyrgyzstan","2000","Female","18",""
-"Kyrgyzstan","2000","Both sexes","16",""
-"Kyrgyzstan","1990","Male","16",""
-"Kyrgyzstan","1990","Female","19",""
-"Kyrgyzstan","1990","Both sexes","18",""
-"Lao People's Democratic Republic","2012","Male","16",""
-"Lao People's Democratic Republic","2012","Female","18",""
-"Lao People's Democratic Republic","2012","Both sexes","17",""
-"Lao People's Democratic Republic","2000","Male","15",""
-"Lao People's Democratic Republic","2000","Female","17",""
-"Lao People's Democratic Republic","2000","Both sexes","16",""
-"Lao People's Democratic Republic","1990","Male","14",""
-"Lao People's Democratic Republic","1990","Female","16",""
-"Lao People's Democratic Republic","1990","Both sexes","15",""
-"Latvia","2012","Male","16",""
-"Latvia","2012","Female","22",""
-"Latvia","2012","Both sexes","20",""
-"Latvia","2000","Male","15",""
-"Latvia","2000","Female","21",""
-"Latvia","2000","Both sexes","19",""
-"Latvia","1990","Male","15",""
-"Latvia","1990","Female","20",""
-"Latvia","1990","Both sexes","18",""
-"Lebanon","2012","Male","21",""
-"Lebanon","2012","Female","25",""
-"Lebanon","2012","Both sexes","22",""
-"Lebanon","2000","Male","18",""
-"Lebanon","2000","Female","20",""
-"Lebanon","2000","Both sexes","19",""
-"Lebanon","1990","Male","16",""
-"Lebanon","1990","Female","18",""
-"Lebanon","1990","Both sexes","17",""
-"Lesotho","2012","Male","15",""
-"Lesotho","2012","Female","17",""
-"Lesotho","2012","Both sexes","16",""
-"Lesotho","2000","Male","15",""
-"Lesotho","2000","Female","17",""
-"Lesotho","2000","Both sexes","16",""
-"Lesotho","1990","Male","16",""
-"Lesotho","1990","Female","17",""
-"Lesotho","1990","Both sexes","17",""
-"Liberia","2012","Male","15",""
-"Liberia","2012","Female","17",""
-"Liberia","2012","Both sexes","16",""
-"Liberia","2000","Male","14",""
-"Liberia","2000","Female","15",""
-"Liberia","2000","Both sexes","15",""
-"Liberia","1990","Male","13",""
-"Liberia","1990","Female","15",""
-"Liberia","1990","Both sexes","14",""
-"Libya","2012","Male","18",""
-"Libya","2012","Female","21",""
-"Libya","2012","Both sexes","20",""
-"Libya","2000","Male","17",""
-"Libya","2000","Female","19",""
-"Libya","2000","Both sexes","18",""
-"Libya","1990","Male","16",""
-"Libya","1990","Female","18",""
-"Libya","1990","Both sexes","17",""
-"Lithuania","2012","Male","17",""
-"Lithuania","2012","Female","23",""
-"Lithuania","2012","Both sexes","21",""
-"Lithuania","2000","Male","17",""
-"Lithuania","2000","Female","22",""
-"Lithuania","2000","Both sexes","20",""
-"Lithuania","1990","Male","16",""
-"Lithuania","1990","Female","21",""
-"Lithuania","1990","Both sexes","19",""
-"Luxembourg","2012","Male","23",""
-"Luxembourg","2012","Female","26",""
-"Luxembourg","2012","Both sexes","25",""
-"Luxembourg","2000","Male","20",""
-"Luxembourg","2000","Female","24",""
-"Luxembourg","2000","Both sexes","22",""
-"Luxembourg","1990","Male","18",""
-"Luxembourg","1990","Female","22",""
-"Luxembourg","1990","Both sexes","20",""
-"Madagascar","2012","Male","16",""
-"Madagascar","2012","Female","17",""
-"Madagascar","2012","Both sexes","17",""
-"Madagascar","2000","Male","15",""
-"Madagascar","2000","Female","16",""
-"Madagascar","2000","Both sexes","16",""
-"Madagascar","1990","Male","15",""
-"Madagascar","1990","Female","16",""
-"Madagascar","1990","Both sexes","15",""
-"Malawi","2012","Male","16",""
-"Malawi","2012","Female","17",""
-"Malawi","2012","Both sexes","16",""
-"Malawi","2000","Male","15",""
-"Malawi","2000","Female","16",""
-"Malawi","2000","Both sexes","15",""
-"Malawi","1990","Male","14",""
-"Malawi","1990","Female","15",""
-"Malawi","1990","Both sexes","15",""
-"Malaysia","2012","Male","18",""
-"Malaysia","2012","Female","20",""
-"Malaysia","2012","Both sexes","19",""
-"Malaysia","2000","Male","16",""
-"Malaysia","2000","Female","18",""
-"Malaysia","2000","Both sexes","17",""
-"Malaysia","1990","Male","16",""
-"Malaysia","1990","Female","18",""
-"Malaysia","1990","Both sexes","17",""
-"Maldives","2012","Male","20",""
-"Maldives","2012","Female","21",""
-"Maldives","2012","Both sexes","20",""
-"Maldives","2000","Male","16",""
-"Maldives","2000","Female","15",""
-"Maldives","2000","Both sexes","15",""
-"Maldives","1990","Male","14",""
-"Maldives","1990","Female","12",""
-"Maldives","1990","Both sexes","13",""
-"Mali","2012","Male","15",""
-"Mali","2012","Female","16",""
-"Mali","2012","Both sexes","15",""
-"Mali","2000","Male","14",""
-"Mali","2000","Female","14",""
-"Mali","2000","Both sexes","14",""
-"Mali","1990","Male","14",""
-"Mali","1990","Female","14",""
-"Mali","1990","Both sexes","14",""
-"Malta","2012","Male","22",""
-"Malta","2012","Female","25",""
-"Malta","2012","Both sexes","24",""
-"Malta","2000","Male","20",""
-"Malta","2000","Female","23",""
-"Malta","2000","Both sexes","21",""
-"Malta","1990","Male","18",""
-"Malta","1990","Female","21",""
-"Malta","1990","Both sexes","19",""
-"Marshall Islands","2012","Male","17",""
-"Marshall Islands","2012","Female","20",""
-"Marshall Islands","2012","Both sexes","18",""
-"Marshall Islands","2000","Male","16",""
-"Marshall Islands","2000","Female","18",""
-"Marshall Islands","2000","Both sexes","17",""
-"Marshall Islands","1990","Male","15",""
-"Marshall Islands","1990","Female","17",""
-"Marshall Islands","1990","Both sexes","16",""
-"Mauritania","2012","Male","16",""
-"Mauritania","2012","Female","17",""
-"Mauritania","2012","Both sexes","16",""
-"Mauritania","2000","Male","15",""
-"Mauritania","2000","Female","17",""
-"Mauritania","2000","Both sexes","16",""
-"Mauritania","1990","Male","15",""
-"Mauritania","1990","Female","16",""
-"Mauritania","1990","Both sexes","16",""
-"Mauritius","2012","Male","18",""
-"Mauritius","2012","Female","22",""
-"Mauritius","2012","Both sexes","20",""
-"Mauritius","2000","Male","16",""
-"Mauritius","2000","Female","20",""
-"Mauritius","2000","Both sexes","18",""
-"Mauritius","1990","Male","15",""
-"Mauritius","1990","Female","19",""
-"Mauritius","1990","Both sexes","17",""
-"Mexico","2012","Male","21",""
-"Mexico","2012","Female","23",""
-"Mexico","2012","Both sexes","22",""
-"Mexico","2000","Male","20",""
-"Mexico","2000","Female","23",""
-"Mexico","2000","Both sexes","21",""
-"Mexico","1990","Male","20",""
-"Mexico","1990","Female","22",""
-"Mexico","1990","Both sexes","21",""
-"Micronesia (Federated States of)","2012","Male","16",""
-"Micronesia (Federated States of)","2012","Female","18",""
-"Micronesia (Federated States of)","2012","Both sexes","17",""
-"Micronesia (Federated States of)","2000","Male","16",""
-"Micronesia (Federated States of)","2000","Female","18",""
-"Micronesia (Federated States of)","2000","Both sexes","17",""
-"Micronesia (Federated States of)","1990","Male","16",""
-"Micronesia (Federated States of)","1990","Female","17",""
-"Micronesia (Federated States of)","1990","Both sexes","17",""
-"Monaco","2012","Male","23",""
-"Monaco","2012","Female","27",""
-"Monaco","2012","Both sexes","25",""
-"Monaco","2000","Male","21",""
-"Monaco","2000","Female","27",""
-"Monaco","2000","Both sexes","24",""
-"Monaco","1990","Male","20",""
-"Monaco","1990","Female","25",""
-"Monaco","1990","Both sexes","22",""
-"Mongolia","2012","Male","14",""
-"Mongolia","2012","Female","18",""
-"Mongolia","2012","Both sexes","16",""
-"Mongolia","2000","Male","13",""
-"Mongolia","2000","Female","16",""
-"Mongolia","2000","Both sexes","14",""
-"Mongolia","1990","Male","14",""
-"Mongolia","1990","Female","16",""
-"Mongolia","1990","Both sexes","15",""
-"Montenegro","2012","Male","18",""
-"Montenegro","2012","Female","21",""
-"Montenegro","2012","Both sexes","20",""
-"Montenegro","2000","Male","19",""
-"Montenegro","2000","Female","21",""
-"Montenegro","2000","Both sexes","20",""
-"Montenegro","1990","Male","19",""
-"Montenegro","1990","Female","23",""
-"Montenegro","1990","Both sexes","22",""
-"Morocco","2012","Male","17",""
-"Morocco","2012","Female","19",""
-"Morocco","2012","Both sexes","18",""
-"Morocco","2000","Male","16",""
-"Morocco","2000","Female","18",""
-"Morocco","2000","Both sexes","17",""
-"Morocco","1990","Male","16",""
-"Morocco","1990","Female","18",""
-"Morocco","1990","Both sexes","17",""
-"Mozambique","2012","Male","16",""
-"Mozambique","2012","Female","17",""
-"Mozambique","2012","Both sexes","16",""
-"Mozambique","2000","Male","14",""
-"Mozambique","2000","Female","16",""
-"Mozambique","2000","Both sexes","15",""
-"Mozambique","1990","Male","14",""
-"Mozambique","1990","Female","15",""
-"Mozambique","1990","Both sexes","14",""
-"Myanmar","2012","Male","16",""
-"Myanmar","2012","Female","17",""
-"Myanmar","2012","Both sexes","17",""
-"Myanmar","2000","Male","15",""
-"Myanmar","2000","Female","17",""
-"Myanmar","2000","Both sexes","16",""
-"Myanmar","1990","Male","15",""
-"Myanmar","1990","Female","16",""
-"Myanmar","1990","Both sexes","16",""
-"Namibia","2012","Male","18",""
-"Namibia","2012","Female","19",""
-"Namibia","2012","Both sexes","18",""
-"Namibia","2000","Male","16",""
-"Namibia","2000","Female","17",""
-"Namibia","2000","Both sexes","16",""
-"Namibia","1990","Male","16",""
-"Namibia","1990","Female","16",""
-"Namibia","1990","Both sexes","16",""
-"Nauru","2012","Male","20",""
-"Nauru","2012","Female","27",""
-"Nauru","2012","Both sexes","23",""
-"Nauru","2000","Male","18",""
-"Nauru","2000","Female","25",""
-"Nauru","2000","Both sexes","21",""
-"Nauru","1990","Male","17",""
-"Nauru","1990","Female","23",""
-"Nauru","1990","Both sexes","20",""
-"Nepal","2012","Male","16",""
-"Nepal","2012","Female","18",""
-"Nepal","2012","Both sexes","17",""
-"Nepal","2000","Male","15",""
-"Nepal","2000","Female","17",""
-"Nepal","2000","Both sexes","16",""
-"Nepal","1990","Male","14",""
-"Nepal","1990","Female","16",""
-"Nepal","1990","Both sexes","15",""
-"Netherlands","2012","Male","22",""
-"Netherlands","2012","Female","25",""
-"Netherlands","2012","Both sexes","24",""
-"Netherlands","2000","Male","19",""
-"Netherlands","2000","Female","24",""
-"Netherlands","2000","Both sexes","22",""
-"Netherlands","1990","Male","18",""
-"Netherlands","1990","Female","23",""
-"Netherlands","1990","Both sexes","21",""
-"New Zealand","2012","Male","24",""
-"New Zealand","2012","Female","26",""
-"New Zealand","2012","Both sexes","25",""
-"New Zealand","2000","Male","21",""
-"New Zealand","2000","Female","24",""
-"New Zealand","2000","Both sexes","23",""
-"New Zealand","1990","Male","18",""
-"New Zealand","1990","Female","22",""
-"New Zealand","1990","Both sexes","20",""
-"Nicaragua","2012","Male","20",""
-"Nicaragua","2012","Female","22",""
-"Nicaragua","2012","Both sexes","21",""
-"Nicaragua","2000","Male","21",""
-"Nicaragua","2000","Female","24",""
-"Nicaragua","2000","Both sexes","22",""
-"Nicaragua","1990","Male","20",""
-"Nicaragua","1990","Female","24",""
-"Nicaragua","1990","Both sexes","22",""
-"Niger","2012","Male","15",""
-"Niger","2012","Female","16",""
-"Niger","2012","Both sexes","15",""
-"Niger","2000","Male","15",""
-"Niger","2000","Female","15",""
-"Niger","2000","Both sexes","15",""
-"Niger","1990","Male","14",""
-"Niger","1990","Female","15",""
-"Niger","1990","Both sexes","15",""
-"Nigeria","2012","Male","15",""
-"Nigeria","2012","Female","16",""
-"Nigeria","2012","Both sexes","16",""
-"Nigeria","2000","Male","14",""
-"Nigeria","2000","Female","15",""
-"Nigeria","2000","Both sexes","15",""
-"Nigeria","1990","Male","14",""
-"Nigeria","1990","Female","15",""
-"Nigeria","1990","Both sexes","15",""
-"Niue","2012","Male","17",""
-"Niue","2012","Female","21",""
-"Niue","2012","Both sexes","19",""
-"Niue","2000","Male","16",""
-"Niue","2000","Female","20",""
-"Niue","2000","Both sexes","18",""
-"Niue","1990","Male","16",""
-"Niue","1990","Female","19",""
-"Niue","1990","Both sexes","17",""
-"Norway","2012","Male","22",""
-"Norway","2012","Female","25",""
-"Norway","2012","Both sexes","24",""
-"Norway","2000","Male","20",""
-"Norway","2000","Female","24",""
-"Norway","2000","Both sexes","22",""
-"Norway","1990","Male","18",""
-"Norway","1990","Female","23",""
-"Norway","1990","Both sexes","21",""
-"Oman","2012","Male","19",""
-"Oman","2012","Female","22",""
-"Oman","2012","Both sexes","20",""
-"Oman","2000","Male","17",""
-"Oman","2000","Female","19",""
-"Oman","2000","Both sexes","18",""
-"Oman","1990","Male","16",""
-"Oman","1990","Female","18",""
-"Oman","1990","Both sexes","17",""
-"Pakistan","2012","Male","17",""
-"Pakistan","2012","Female","18",""
-"Pakistan","2012","Both sexes","17",""
-"Pakistan","2000","Male","17",""
-"Pakistan","2000","Female","18",""
-"Pakistan","2000","Both sexes","17",""
-"Pakistan","1990","Male","17",""
-"Pakistan","1990","Female","18",""
-"Pakistan","1990","Both sexes","17",""
-"Palau","2012","Male","17",""
-"Palau","2012","Female","19",""
-"Palau","2012","Both sexes","18",""
-"Palau","2000","Male","16",""
-"Palau","2000","Female","18",""
-"Palau","2000","Both sexes","17",""
-"Palau","1990","Male","15",""
-"Palau","1990","Female","17",""
-"Palau","1990","Both sexes","16",""
-"Panama","2012","Male","22",""
-"Panama","2012","Female","25",""
-"Panama","2012","Both sexes","23",""
-"Panama","2000","Male","21",""
-"Panama","2000","Female","24",""
-"Panama","2000","Both sexes","23",""
-"Panama","1990","Male","20",""
-"Panama","1990","Female","22",""
-"Panama","1990","Both sexes","21",""
-"Papua New Guinea","2012","Male","13",""
-"Papua New Guinea","2012","Female","16",""
-"Papua New Guinea","2012","Both sexes","15",""
-"Papua New Guinea","2000","Male","12",""
-"Papua New Guinea","2000","Female","16",""
-"Papua New Guinea","2000","Both sexes","14",""
-"Papua New Guinea","1990","Male","12",""
-"Papua New Guinea","1990","Female","15",""
-"Papua New Guinea","1990","Both sexes","13",""
-"Paraguay","2012","Male","20",""
-"Paraguay","2012","Female","23",""
-"Paraguay","2012","Both sexes","21",""
-"Paraguay","2000","Male","19",""
-"Paraguay","2000","Female","23",""
-"Paraguay","2000","Both sexes","21",""
-"Paraguay","1990","Male","19",""
-"Paraguay","1990","Female","22",""
-"Paraguay","1990","Both sexes","21",""
-"Peru","2012","Male","21",""
-"Peru","2012","Female","24",""
-"Peru","2012","Both sexes","23",""
-"Peru","2000","Male","19",""
-"Peru","2000","Female","21",""
-"Peru","2000","Both sexes","20",""
-"Peru","1990","Male","20",""
-"Peru","1990","Female","22",""
-"Peru","1990","Both sexes","21",""
-"Philippines","2012","Male","15",""
-"Philippines","2012","Female","19",""
-"Philippines","2012","Both sexes","17",""
-"Philippines","2000","Male","17",""
-"Philippines","2000","Female","20",""
-"Philippines","2000","Both sexes","19",""
-"Philippines","1990","Male","17",""
-"Philippines","1990","Female","19",""
-"Philippines","1990","Both sexes","18",""
-"Poland","2012","Male","19",""
-"Poland","2012","Female","24",""
-"Poland","2012","Both sexes","21",""
-"Poland","2000","Male","17",""
-"Poland","2000","Female","22",""
-"Poland","2000","Both sexes","19",""
-"Poland","1990","Male","15",""
-"Poland","1990","Female","20",""
-"Poland","1990","Both sexes","18",""
-"Portugal","2012","Male","22",""
-"Portugal","2012","Female","26",""
-"Portugal","2012","Both sexes","24",""
-"Portugal","2000","Male","19",""
-"Portugal","2000","Female","23",""
-"Portugal","2000","Both sexes","21",""
-"Portugal","1990","Male","18",""
-"Portugal","1990","Female","22",""
-"Portugal","1990","Both sexes","20",""
-"Qatar","2012","Male","22",""
-"Qatar","2012","Female","22",""
-"Qatar","2012","Both sexes","22",""
-"Qatar","2000","Male","21",""
-"Qatar","2000","Female","20",""
-"Qatar","2000","Both sexes","20",""
-"Qatar","1990","Male","19",""
-"Qatar","1990","Female","20",""
-"Qatar","1990","Both sexes","19",""
-"Republic of Korea","2012","Male","21",""
-"Republic of Korea","2012","Female","27",""
-"Republic of Korea","2012","Both sexes","24",""
-"Republic of Korea","2000","Male","18",""
-"Republic of Korea","2000","Female","23",""
-"Republic of Korea","2000","Both sexes","21",""
-"Republic of Korea","1990","Male","15",""
-"Republic of Korea","1990","Female","20",""
-"Republic of Korea","1990","Both sexes","18",""
-"Republic of Moldova","2012","Male","15",""
-"Republic of Moldova","2012","Female","19",""
-"Republic of Moldova","2012","Both sexes","17",""
-"Republic of Moldova","2000","Male","14",""
-"Republic of Moldova","2000","Female","17",""
-"Republic of Moldova","2000","Both sexes","16",""
-"Republic of Moldova","1990","Male","15",""
-"Republic of Moldova","1990","Female","19",""
-"Republic of Moldova","1990","Both sexes","17",""
-"Romania","2012","Male","17",""
-"Romania","2012","Female","22",""
-"Romania","2012","Both sexes","20",""
-"Romania","2000","Male","17",""
-"Romania","2000","Female","20",""
-"Romania","2000","Both sexes","19",""
-"Romania","1990","Male","17",""
-"Romania","1990","Female","19",""
-"Romania","1990","Both sexes","18",""
-"Russian Federation","2012","Male","14",""
-"Russian Federation","2012","Female","20",""
-"Russian Federation","2012","Both sexes","17",""
-"Russian Federation","2000","Male","13",""
-"Russian Federation","2000","Female","19",""
-"Russian Federation","2000","Both sexes","17",""
-"Russian Federation","1990","Male","15",""
-"Russian Federation","1990","Female","20",""
-"Russian Federation","1990","Both sexes","18",""
-"Rwanda","2012","Male","17",""
-"Rwanda","2012","Female","19",""
-"Rwanda","2012","Both sexes","18",""
-"Rwanda","2000","Male","15",""
-"Rwanda","2000","Female","16",""
-"Rwanda","2000","Both sexes","15",""
-"Rwanda","1990","Male","14",""
-"Rwanda","1990","Female","15",""
-"Rwanda","1990","Both sexes","15",""
-"Saint Kitts and Nevis","2012","Male","17",""
-"Saint Kitts and Nevis","2012","Female","21",""
-"Saint Kitts and Nevis","2012","Both sexes","19",""
-"Saint Kitts and Nevis","2000","Male","17",""
-"Saint Kitts and Nevis","2000","Female","19",""
-"Saint Kitts and Nevis","2000","Both sexes","18",""
-"Saint Kitts and Nevis","1990","Male","16",""
-"Saint Kitts and Nevis","1990","Female","19",""
-"Saint Kitts and Nevis","1990","Both sexes","17",""
-"Saint Lucia","2012","Male","19",""
-"Saint Lucia","2012","Female","23",""
-"Saint Lucia","2012","Both sexes","21",""
-"Saint Lucia","2000","Male","20",""
-"Saint Lucia","2000","Female","22",""
-"Saint Lucia","2000","Both sexes","21",""
-"Saint Lucia","1990","Male","19",""
-"Saint Lucia","1990","Female","21",""
-"Saint Lucia","1990","Both sexes","20",""
-"Saint Vincent and the Grenadines","2012","Male","20",""
-"Saint Vincent and the Grenadines","2012","Female","22",""
-"Saint Vincent and the Grenadines","2012","Both sexes","21",""
-"Saint Vincent and the Grenadines","2000","Male","18",""
-"Saint Vincent and the Grenadines","2000","Female","21",""
-"Saint Vincent and the Grenadines","2000","Both sexes","19",""
-"Saint Vincent and the Grenadines","1990","Male","18",""
-"Saint Vincent and the Grenadines","1990","Female","21",""
-"Saint Vincent and the Grenadines","1990","Both sexes","19",""
-"Samoa","2012","Male","16",""
-"Samoa","2012","Female","21",""
-"Samoa","2012","Both sexes","19",""
-"Samoa","2000","Male","15",""
-"Samoa","2000","Female","19",""
-"Samoa","2000","Both sexes","17",""
-"Samoa","1990","Male","14",""
-"Samoa","1990","Female","18",""
-"Samoa","1990","Both sexes","15",""
-"San Marino","2012","Male","24",""
-"San Marino","2012","Female","25",""
-"San Marino","2012","Both sexes","25",""
-"San Marino","2000","Male","22",""
-"San Marino","2000","Female","26",""
-"San Marino","2000","Both sexes","24",""
-"San Marino","1990","Male","20",""
-"San Marino","1990","Female","25",""
-"San Marino","1990","Both sexes","23",""
-"Sao Tome and Principe","2012","Male","17",""
-"Sao Tome and Principe","2012","Female","19",""
-"Sao Tome and Principe","2012","Both sexes","18",""
-"Sao Tome and Principe","2000","Male","17",""
-"Sao Tome and Principe","2000","Female","18",""
-"Sao Tome and Principe","2000","Both sexes","18",""
-"Sao Tome and Principe","1990","Male","17",""
-"Sao Tome and Principe","1990","Female","18",""
-"Sao Tome and Principe","1990","Both sexes","17",""
-"Saudi Arabia","2012","Male","18",""
-"Saudi Arabia","2012","Female","21",""
-"Saudi Arabia","2012","Both sexes","19",""
-"Saudi Arabia","2000","Male","17",""
-"Saudi Arabia","2000","Female","19",""
-"Saudi Arabia","2000","Both sexes","18",""
-"Saudi Arabia","1990","Male","16",""
-"Saudi Arabia","1990","Female","18",""
-"Saudi Arabia","1990","Both sexes","17",""
-"Senegal","2012","Male","15",""
-"Senegal","2012","Female","17",""
-"Senegal","2012","Both sexes","16",""
-"Senegal","2000","Male","15",""
-"Senegal","2000","Female","16",""
-"Senegal","2000","Both sexes","16",""
-"Senegal","1990","Male","15",""
-"Senegal","1990","Female","16",""
-"Senegal","1990","Both sexes","16",""
-"Serbia","2012","Male","17",""
-"Serbia","2012","Female","20",""
-"Serbia","2012","Both sexes","19",""
-"Serbia","2000","Male","16",""
-"Serbia","2000","Female","19",""
-"Serbia","2000","Both sexes","18",""
-"Serbia","1990","Male","17",""
-"Serbia","1990","Female","20",""
-"Serbia","1990","Both sexes","19",""
-"Seychelles","2012","Male","17",""
-"Seychelles","2012","Female","23",""
-"Seychelles","2012","Both sexes","20",""
-"Seychelles","2000","Male","16",""
-"Seychelles","2000","Female","21",""
-"Seychelles","2000","Both sexes","19",""
-"Seychelles","1990","Male","14",""
-"Seychelles","1990","Female","21",""
-"Seychelles","1990","Both sexes","17",""
-"Sierra Leone","2012","Male","12",""
-"Sierra Leone","2012","Female","13",""
-"Sierra Leone","2012","Both sexes","13",""
-"Sierra Leone","2000","Male","11",""
-"Sierra Leone","2000","Female","11",""
-"Sierra Leone","2000","Both sexes","11",""
-"Sierra Leone","1990","Male","11",""
-"Sierra Leone","1990","Female","11",""
-"Sierra Leone","1990","Both sexes","11",""
-"Singapore","2012","Male","23",""
-"Singapore","2012","Female","27",""
-"Singapore","2012","Both sexes","25",""
-"Singapore","2000","Male","20",""
-"Singapore","2000","Female","24",""
-"Singapore","2000","Both sexes","22",""
-"Singapore","1990","Male","18",""
-"Singapore","1990","Female","21",""
-"Singapore","1990","Both sexes","20",""
-"Slovakia","2012","Male","18",""
-"Slovakia","2012","Female","23",""
-"Slovakia","2012","Both sexes","21",""
-"Slovakia","2000","Male","16",""
-"Slovakia","2000","Female","21",""
-"Slovakia","2000","Both sexes","19",""
-"Slovakia","1990","Male","15",""
-"Slovakia","1990","Female","20",""
-"Slovakia","1990","Both sexes","18",""
-"Slovenia","2012","Male","21",""
-"Slovenia","2012","Female","25",""
-"Slovenia","2012","Both sexes","23",""
-"Slovenia","2000","Male","18",""
-"Slovenia","2000","Female","23",""
-"Slovenia","2000","Both sexes","21",""
-"Slovenia","1990","Male","17",""
-"Slovenia","1990","Female","21",""
-"Slovenia","1990","Both sexes","19",""
-"Solomon Islands","2012","Male","16",""
-"Solomon Islands","2012","Female","18",""
-"Solomon Islands","2012","Both sexes","17",""
-"Solomon Islands","2000","Male","15",""
-"Solomon Islands","2000","Female","17",""
-"Solomon Islands","2000","Both sexes","16",""
-"Solomon Islands","1990","Male","15",""
-"Solomon Islands","1990","Female","16",""
-"Solomon Islands","1990","Both sexes","15",""
-"Somalia","2012","Male","15",""
-"Somalia","2012","Female","17",""
-"Somalia","2012","Both sexes","16",""
-"Somalia","2000","Male","15",""
-"Somalia","2000","Female","16",""
-"Somalia","2000","Both sexes","15",""
-"Somalia","1990","Male","14",""
-"Somalia","1990","Female","15",""
-"Somalia","1990","Both sexes","15",""
-"South Africa","2012","Male","14",""
-"South Africa","2012","Female","18",""
-"South Africa","2012","Both sexes","16",""
-"South Africa","2000","Male","13",""
-"South Africa","2000","Female","18",""
-"South Africa","2000","Both sexes","16",""
-"South Africa","1990","Male","13",""
-"South Africa","1990","Female","17",""
-"South Africa","1990","Both sexes","15",""
-"South Sudan","2012","Male","16",""
-"South Sudan","2012","Female","17",""
-"South Sudan","2012","Both sexes","16",""
-"South Sudan","2000","Male","15",""
-"South Sudan","2000","Female","16",""
-"South Sudan","2000","Both sexes","15",""
-"South Sudan","1990","Male","13",""
-"South Sudan","1990","Female","14",""
-"South Sudan","1990","Both sexes","14",""
-"Spain","2012","Male","22",""
-"Spain","2012","Female","27",""
-"Spain","2012","Both sexes","25",""
-"Spain","2000","Male","21",""
-"Spain","2000","Female","25",""
-"Spain","2000","Both sexes","23",""
-"Spain","1990","Male","19",""
-"Spain","1990","Female","24",""
-"Spain","1990","Both sexes","22",""
-"Sri Lanka","2012","Male","18",""
-"Sri Lanka","2012","Female","22",""
-"Sri Lanka","2012","Both sexes","20",""
-"Sri Lanka","2000","Male","17",""
-"Sri Lanka","2000","Female","20",""
-"Sri Lanka","2000","Both sexes","18",""
-"Sri Lanka","1990","Male","18",""
-"Sri Lanka","1990","Female","21",""
-"Sri Lanka","1990","Both sexes","19",""
-"Sudan","2012","Male","17",""
-"Sudan","2012","Female","18",""
-"Sudan","2012","Both sexes","17",""
-"Sudan","2000","Male","16",""
-"Sudan","2000","Female","17",""
-"Sudan","2000","Both sexes","17",""
-"Sudan","1990","Male","16",""
-"Sudan","1990","Female","17",""
-"Sudan","1990","Both sexes","16",""
-"Suriname","2012","Male","22",""
-"Suriname","2012","Female","25",""
-"Suriname","2012","Both sexes","23",""
-"Suriname","2000","Male","20",""
-"Suriname","2000","Female","24",""
-"Suriname","2000","Both sexes","22",""
-"Suriname","1990","Male","19",""
-"Suriname","1990","Female","22",""
-"Suriname","1990","Both sexes","21",""
-"Swaziland","2012","Male","17",""
-"Swaziland","2012","Female","17",""
-"Swaziland","2012","Both sexes","17",""
-"Swaziland","2000","Male","16",""
-"Swaziland","2000","Female","16",""
-"Swaziland","2000","Both sexes","16",""
-"Swaziland","1990","Male","16",""
-"Swaziland","1990","Female","15",""
-"Swaziland","1990","Both sexes","16",""
-"Sweden","2012","Male","23",""
-"Sweden","2012","Female","25",""
-"Sweden","2012","Both sexes","24",""
-"Sweden","2000","Male","21",""
-"Sweden","2000","Female","24",""
-"Sweden","2000","Both sexes","23",""
-"Sweden","1990","Male","19",""
-"Sweden","1990","Female","23",""
-"Sweden","1990","Both sexes","21",""
-"Switzerland","2012","Male","24",""
-"Switzerland","2012","Female","27",""
-"Switzerland","2012","Both sexes","25",""
-"Switzerland","2000","Male","21",""
-"Switzerland","2000","Female","25",""
-"Switzerland","2000","Both sexes","23",""
-"Switzerland","1990","Male","19",""
-"Switzerland","1990","Female","24",""
-"Switzerland","1990","Both sexes","22",""
-"Syrian Arab Republic","2012","Male","18",""
-"Syrian Arab Republic","2012","Female","22",""
-"Syrian Arab Republic","2012","Both sexes","19",""
-"Syrian Arab Republic","2000","Male","18",""
-"Syrian Arab Republic","2000","Female","20",""
-"Syrian Arab Republic","2000","Both sexes","19",""
-"Syrian Arab Republic","1990","Male","17",""
-"Syrian Arab Republic","1990","Female","18",""
-"Syrian Arab Republic","1990","Both sexes","18",""
-"Tajikistan","2012","Male","17",""
-"Tajikistan","2012","Female","17",""
-"Tajikistan","2012","Both sexes","17",""
-"Tajikistan","2000","Male","17",""
-"Tajikistan","2000","Female","16",""
-"Tajikistan","2000","Both sexes","17",""
-"Tajikistan","1990","Male","17",""
-"Tajikistan","1990","Female","18",""
-"Tajikistan","1990","Both sexes","18",""
-"Thailand","2012","Male","19",""
-"Thailand","2012","Female","23",""
-"Thailand","2012","Both sexes","21",""
-"Thailand","2000","Male","18",""
-"Thailand","2000","Female","22",""
-"Thailand","2000","Both sexes","20",""
-"Thailand","1990","Male","16",""
-"Thailand","1990","Female","19",""
-"Thailand","1990","Both sexes","18",""
-"The former Yugoslav Republic of Macedonia","2012","Male","18",""
-"The former Yugoslav Republic of Macedonia","2012","Female","20",""
-"The former Yugoslav Republic of Macedonia","2012","Both sexes","19",""
-"The former Yugoslav Republic of Macedonia","2000","Male","17",""
-"The former Yugoslav Republic of Macedonia","2000","Female","19",""
-"The former Yugoslav Republic of Macedonia","2000","Both sexes","18",""
-"The former Yugoslav Republic of Macedonia","1990","Male","18",""
-"The former Yugoslav Republic of Macedonia","1990","Female","20",""
-"The former Yugoslav Republic of Macedonia","1990","Both sexes","19",""
-"Timor-Leste","2012","Male","16",""
-"Timor-Leste","2012","Female","18",""
-"Timor-Leste","2012","Both sexes","17",""
-"Timor-Leste","2000","Male","15",""
-"Timor-Leste","2000","Female","16",""
-"Timor-Leste","2000","Both sexes","16",""
-"Timor-Leste","1990","Male","13",""
-"Timor-Leste","1990","Female","15",""
-"Timor-Leste","1990","Both sexes","14",""
-"Togo","2012","Male","16",""
-"Togo","2012","Female","17",""
-"Togo","2012","Both sexes","17",""
-"Togo","2000","Male","16",""
-"Togo","2000","Female","16",""
-"Togo","2000","Both sexes","16",""
-"Togo","1990","Male","16",""
-"Togo","1990","Female","17",""
-"Togo","1990","Both sexes","16",""
-"Tonga","2012","Male","18",""
-"Tonga","2012","Female","18",""
-"Tonga","2012","Both sexes","18",""
-"Tonga","2000","Male","16",""
-"Tonga","2000","Female","18",""
-"Tonga","2000","Both sexes","17",""
-"Tonga","1990","Male","14",""
-"Tonga","1990","Female","19",""
-"Tonga","1990","Both sexes","17",""
-"Trinidad and Tobago","2012","Male","16",""
-"Trinidad and Tobago","2012","Female","20",""
-"Trinidad and Tobago","2012","Both sexes","18",""
-"Trinidad and Tobago","2000","Male","15",""
-"Trinidad and Tobago","2000","Female","20",""
-"Trinidad and Tobago","2000","Both sexes","17",""
-"Trinidad and Tobago","1990","Male","15",""
-"Trinidad and Tobago","1990","Female","18",""
-"Trinidad and Tobago","1990","Both sexes","17",""
-"Tunisia","2012","Male","19",""
-"Tunisia","2012","Female","22",""
-"Tunisia","2012","Both sexes","21",""
-"Tunisia","2000","Male","19",""
-"Tunisia","2000","Female","20",""
-"Tunisia","2000","Both sexes","19",""
-"Tunisia","1990","Male","18",""
-"Tunisia","1990","Female","19",""
-"Tunisia","1990","Both sexes","19",""
-"Turkey","2012","Male","18",""
-"Turkey","2012","Female","23",""
-"Turkey","2012","Both sexes","21",""
-"Turkey","2000","Male","17",""
-"Turkey","2000","Female","21",""
-"Turkey","2000","Both sexes","19",""
-"Turkey","1990","Male","16",""
-"Turkey","1990","Female","20",""
-"Turkey","1990","Both sexes","18",""
-"Turkmenistan","2012","Male","15",""
-"Turkmenistan","2012","Female","17",""
-"Turkmenistan","2012","Both sexes","16",""
-"Turkmenistan","2000","Male","14",""
-"Turkmenistan","2000","Female","16",""
-"Turkmenistan","2000","Both sexes","15",""
-"Turkmenistan","1990","Male","14",""
-"Turkmenistan","1990","Female","17",""
-"Turkmenistan","1990","Both sexes","16",""
-"Tuvalu","2012","Male","15",""
-"Tuvalu","2012","Female","18",""
-"Tuvalu","2012","Both sexes","16",""
-"Tuvalu","2000","Male","14",""
-"Tuvalu","2000","Female","17",""
-"Tuvalu","2000","Both sexes","15",""
-"Tuvalu","1990","Male","13",""
-"Tuvalu","1990","Female","16",""
-"Tuvalu","1990","Both sexes","14",""
-"Uganda","2012","Male","16",""
-"Uganda","2012","Female","17",""
-"Uganda","2012","Both sexes","16",""
-"Uganda","2000","Male","14",""
-"Uganda","2000","Female","16",""
-"Uganda","2000","Both sexes","15",""
-"Uganda","1990","Male","14",""
-"Uganda","1990","Female","16",""
-"Uganda","1990","Both sexes","15",""
-"Ukraine","2012","Male","15",""
-"Ukraine","2012","Female","20",""
-"Ukraine","2012","Both sexes","18",""
-"Ukraine","2000","Male","14",""
-"Ukraine","2000","Female","19",""
-"Ukraine","2000","Both sexes","17",""
-"Ukraine","1990","Male","15",""
-"Ukraine","1990","Female","20",""
-"Ukraine","1990","Both sexes","18",""
-"United Arab Emirates","2012","Male","19",""
-"United Arab Emirates","2012","Female","20",""
-"United Arab Emirates","2012","Both sexes","20",""
-"United Arab Emirates","2000","Male","18",""
-"United Arab Emirates","2000","Female","19",""
-"United Arab Emirates","2000","Both sexes","18",""
-"United Arab Emirates","1990","Male","17",""
-"United Arab Emirates","1990","Female","18",""
-"United Arab Emirates","1990","Both sexes","17",""
-"United Kingdom","2012","Male","22",""
-"United Kingdom","2012","Female","25",""
-"United Kingdom","2012","Both sexes","24",""
-"United Kingdom","2000","Male","20",""
-"United Kingdom","2000","Female","23",""
-"United Kingdom","2000","Both sexes","21",""
-"United Kingdom","1990","Male","18",""
-"United Kingdom","1990","Female","22",""
-"United Kingdom","1990","Both sexes","20",""
-"United Republic of Tanzania","2012","Male","17",""
-"United Republic of Tanzania","2012","Female","18",""
-"United Republic of Tanzania","2012","Both sexes","18",""
-"United Republic of Tanzania","2000","Male","16",""
-"United Republic of Tanzania","2000","Female","17",""
-"United Republic of Tanzania","2000","Both sexes","16",""
-"United Republic of Tanzania","1990","Male","15",""
-"United Republic of Tanzania","1990","Female","16",""
-"United Republic of Tanzania","1990","Both sexes","16",""
-"United States of America","2012","Male","21",""
-"United States of America","2012","Female","24",""
-"United States of America","2012","Both sexes","23",""
-"United States of America","2000","Male","20",""
-"United States of America","2000","Female","23",""
-"United States of America","2000","Both sexes","22",""
-"United States of America","1990","Male","19",""
-"United States of America","1990","Female","23",""
-"United States of America","1990","Both sexes","21",""
-"Uruguay","2012","Male","19",""
-"Uruguay","2012","Female","24",""
-"Uruguay","2012","Both sexes","22",""
-"Uruguay","2000","Male","18",""
-"Uruguay","2000","Female","23",""
-"Uruguay","2000","Both sexes","21",""
-"Uruguay","1990","Male","17",""
-"Uruguay","1990","Female","21",""
-"Uruguay","1990","Both sexes","19",""
-"Uzbekistan","2012","Male","16",""
-"Uzbekistan","2012","Female","18",""
-"Uzbekistan","2012","Both sexes","17",""
-"Uzbekistan","2000","Male","15",""
-"Uzbekistan","2000","Female","18",""
-"Uzbekistan","2000","Both sexes","17",""
-"Uzbekistan","1990","Male","16",""
-"Uzbekistan","1990","Female","20",""
-"Uzbekistan","1990","Both sexes","18",""
-"Vanuatu","2012","Male","17",""
-"Vanuatu","2012","Female","19",""
-"Vanuatu","2012","Both sexes","18",""
-"Vanuatu","2000","Male","16",""
-"Vanuatu","2000","Female","18",""
-"Vanuatu","2000","Both sexes","17",""
-"Vanuatu","1990","Male","15",""
-"Vanuatu","1990","Female","17",""
-"Vanuatu","1990","Both sexes","16",""
-"Venezuela (Bolivarian Republic of)","2012","Male","21",""
-"Venezuela (Bolivarian Republic of)","2012","Female","24",""
-"Venezuela (Bolivarian Republic of)","2012","Both sexes","23",""
-"Venezuela (Bolivarian Republic of)","2000","Male","20",""
-"Venezuela (Bolivarian Republic of)","2000","Female","22",""
-"Venezuela (Bolivarian Republic of)","2000","Both sexes","21",""
-"Venezuela (Bolivarian Republic of)","1990","Male","18",""
-"Venezuela (Bolivarian Republic of)","1990","Female","20",""
-"Venezuela (Bolivarian Republic of)","1990","Both sexes","19",""
-"Viet Nam","2012","Male","19",""
-"Viet Nam","2012","Female","25",""
-"Viet Nam","2012","Both sexes","22",""
-"Viet Nam","2000","Male","18",""
-"Viet Nam","2000","Female","24",""
-"Viet Nam","2000","Both sexes","21",""
-"Viet Nam","1990","Male","18",""
-"Viet Nam","1990","Female","23",""
-"Viet Nam","1990","Both sexes","20",""
-"Yemen","2012","Male","15",""
-"Yemen","2012","Female","17",""
-"Yemen","2012","Both sexes","16",""
-"Yemen","2000","Male","15",""
-"Yemen","2000","Female","17",""
-"Yemen","2000","Both sexes","16",""
-"Yemen","1990","Male","15",""
-"Yemen","1990","Female","16",""
-"Yemen","1990","Both sexes","16",""
-"Zambia","2012","Male","16",""
-"Zambia","2012","Female","18",""
-"Zambia","2012","Both sexes","17",""
-"Zambia","2000","Male","14",""
-"Zambia","2000","Female","16",""
-"Zambia","2000","Both sexes","15",""
-"Zambia","1990","Male","14",""
-"Zambia","1990","Female","16",""
-"Zambia","1990","Both sexes","15",""
-"Zimbabwe","2012","Male","17",""
-"Zimbabwe","2012","Female","19",""
-"Zimbabwe","2012","Both sexes","18",""
-"Zimbabwe","2000","Male","15",""
-"Zimbabwe","2000","Female","16",""
-"Zimbabwe","2000","Both sexes","16",""
-"Zimbabwe","1990","Male","17",""
-"Zimbabwe","1990","Female","18",""
-"Zimbabwe","1990","Both sexes","18",""
-
+Country or Area,Year(s),GENDER,Value,Value Footnotes
+Afghanistan,2012,Male,15,
+Afghanistan,2012,Female,17,
+Afghanistan,2012,Both sexes,16,
+Afghanistan,2000,Male,14,
+Afghanistan,2000,Female,16,
+Afghanistan,2000,Both sexes,15,
+Afghanistan,1990,Male,13,
+Afghanistan,1990,Female,15,
+Afghanistan,1990,Both sexes,14,
+Albania,2012,Male,18,
+Albania,2012,Female,20,
+Albania,2012,Both sexes,19,
+Albania,2000,Male,15,
+Albania,2000,Female,18,
+Albania,2000,Both sexes,17,
+Albania,1990,Male,15,
+Albania,1990,Female,18,
+Albania,1990,Both sexes,16,
+Algeria,2012,Male,17,
+Algeria,2012,Female,19,
+Algeria,2012,Both sexes,18,
+Algeria,2000,Male,17,
+Algeria,2000,Female,18,
+Algeria,2000,Both sexes,18,
+Algeria,1990,Male,16,
+Algeria,1990,Female,18,
+Algeria,1990,Both sexes,17,
+Andorra,2012,Male,23,
+Andorra,2012,Female,28,
+Andorra,2012,Both sexes,25,
+Andorra,2000,Male,21,
+Andorra,2000,Female,26,
+Andorra,2000,Both sexes,23,
+Andorra,1990,Male,19,
+Andorra,1990,Female,24,
+Andorra,1990,Both sexes,22,
+Angola,2012,Male,15,
+Angola,2012,Female,16,
+Angola,2012,Both sexes,16,
+Angola,2000,Male,14,
+Angola,2000,Female,15,
+Angola,2000,Both sexes,15,
+Angola,1990,Male,13,
+Angola,1990,Female,14,
+Angola,1990,Both sexes,14,
+Antigua and Barbuda,2012,Male,21,
+Antigua and Barbuda,2012,Female,23,
+Antigua and Barbuda,2012,Both sexes,22,
+Antigua and Barbuda,2000,Male,20,
+Antigua and Barbuda,2000,Female,20,
+Antigua and Barbuda,2000,Both sexes,20,
+Antigua and Barbuda,1990,Male,17,
+Antigua and Barbuda,1990,Female,18,
+Antigua and Barbuda,1990,Both sexes,17,
+Argentina,2012,Male,19,
+Argentina,2012,Female,24,
+Argentina,2012,Both sexes,21,
+Argentina,2000,Male,18,
+Argentina,2000,Female,23,
+Argentina,2000,Both sexes,21,
+Argentina,1990,Male,17,
+Argentina,1990,Female,22,
+Argentina,1990,Both sexes,20,
+Armenia,2012,Male,15,
+Armenia,2012,Female,19,
+Armenia,2012,Both sexes,17,
+Armenia,2000,Male,16,
+Armenia,2000,Female,19,
+Armenia,2000,Both sexes,18,
+Armenia,1990,Male,14,
+Armenia,1990,Female,18,
+Armenia,1990,Both sexes,16,
+Australia,2012,Male,24,
+Australia,2012,Female,27,
+Australia,2012,Both sexes,25,
+Australia,2000,Male,21,
+Australia,2000,Female,25,
+Australia,2000,Both sexes,23,
+Australia,1990,Male,19,
+Australia,1990,Female,23,
+Australia,1990,Both sexes,21,
+Austria,2012,Male,22,
+Austria,2012,Female,25,
+Austria,2012,Both sexes,24,
+Austria,2000,Male,20,
+Austria,2000,Female,24,
+Austria,2000,Both sexes,22,
+Austria,1990,Male,18,
+Austria,1990,Female,22,
+Austria,1990,Both sexes,21,
+Azerbaijan,2012,Male,17,
+Azerbaijan,2012,Female,20,
+Azerbaijan,2012,Both sexes,19,
+Azerbaijan,2000,Male,16,
+Azerbaijan,2000,Female,18,
+Azerbaijan,2000,Both sexes,17,
+Azerbaijan,1990,Male,15,
+Azerbaijan,1990,Female,17,
+Azerbaijan,1990,Both sexes,16,
+Bahamas,2012,Male,19,
+Bahamas,2012,Female,23,
+Bahamas,2012,Both sexes,21,
+Bahamas,2000,Male,18,
+Bahamas,2000,Female,23,
+Bahamas,2000,Both sexes,21,
+Bahamas,1990,Male,17,
+Bahamas,1990,Female,20,
+Bahamas,1990,Both sexes,19,
+Bahrain,2012,Male,19,
+Bahrain,2012,Female,21,
+Bahrain,2012,Both sexes,20,
+Bahrain,2000,Male,18,
+Bahrain,2000,Female,19,
+Bahrain,2000,Both sexes,18,
+Bahrain,1990,Male,17,
+Bahrain,1990,Female,19,
+Bahrain,1990,Both sexes,18,
+Bangladesh,2012,Male,18,
+Bangladesh,2012,Female,19,
+Bangladesh,2012,Both sexes,18,
+Bangladesh,2000,Male,17,
+Bangladesh,2000,Female,18,
+Bangladesh,2000,Both sexes,18,
+Bangladesh,1990,Male,17,
+Bangladesh,1990,Female,17,
+Bangladesh,1990,Both sexes,17,
+Barbados,2012,Male,21,
+Barbados,2012,Female,25,
+Barbados,2012,Both sexes,23,
+Barbados,2000,Male,20,
+Barbados,2000,Female,23,
+Barbados,2000,Both sexes,22,
+Barbados,1990,Male,18,
+Barbados,1990,Female,22,
+Barbados,1990,Both sexes,20,
+Belarus,2012,Male,15,
+Belarus,2012,Female,21,
+Belarus,2012,Both sexes,19,
+Belarus,2000,Male,14,
+Belarus,2000,Female,20,
+Belarus,2000,Both sexes,17,
+Belarus,1990,Male,16,
+Belarus,1990,Female,21,
+Belarus,1990,Both sexes,19,
+Belgium,2012,Male,21,
+Belgium,2012,Female,25,
+Belgium,2012,Both sexes,23,
+Belgium,2000,Male,19,
+Belgium,2000,Female,24,
+Belgium,2000,Both sexes,22,
+Belgium,1990,Male,18,
+Belgium,1990,Female,23,
+Belgium,1990,Both sexes,21,
+Belize,2012,Male,19,
+Belize,2012,Female,23,
+Belize,2012,Both sexes,21,
+Belize,2000,Male,17,
+Belize,2000,Female,21,
+Belize,2000,Both sexes,19,
+Belize,1990,Male,18,
+Belize,1990,Female,20,
+Belize,1990,Both sexes,19,
+Benin,2012,Male,15,
+Benin,2012,Female,16,
+Benin,2012,Both sexes,16,
+Benin,2000,Male,14,
+Benin,2000,Female,15,
+Benin,2000,Both sexes,15,
+Benin,1990,Male,14,
+Benin,1990,Female,16,
+Benin,1990,Both sexes,15,
+Bhutan,2012,Male,19,
+Bhutan,2012,Female,19,
+Bhutan,2012,Both sexes,19,
+Bhutan,2000,Male,17,
+Bhutan,2000,Female,17,
+Bhutan,2000,Both sexes,17,
+Bhutan,1990,Male,16,
+Bhutan,1990,Female,16,
+Bhutan,1990,Both sexes,16,
+Bolivia (Plurinational State of),2012,Male,18,
+Bolivia (Plurinational State of),2012,Female,20,
+Bolivia (Plurinational State of),2012,Both sexes,19,
+Bolivia (Plurinational State of),2000,Male,17,
+Bolivia (Plurinational State of),2000,Female,19,
+Bolivia (Plurinational State of),2000,Both sexes,18,
+Bolivia (Plurinational State of),1990,Male,16,
+Bolivia (Plurinational State of),1990,Female,18,
+Bolivia (Plurinational State of),1990,Both sexes,17,
+Bosnia and Herzegovina,2012,Male,19,
+Bosnia and Herzegovina,2012,Female,22,
+Bosnia and Herzegovina,2012,Both sexes,21,
+Bosnia and Herzegovina,2000,Male,18,
+Bosnia and Herzegovina,2000,Female,21,
+Bosnia and Herzegovina,2000,Both sexes,19,
+Bosnia and Herzegovina,1990,Male,16,
+Bosnia and Herzegovina,1990,Female,19,
+Bosnia and Herzegovina,1990,Both sexes,18,
+Botswana,2012,Male,18,
+Botswana,2012,Female,18,
+Botswana,2012,Both sexes,18,
+Botswana,2000,Male,16,
+Botswana,2000,Female,17,
+Botswana,2000,Both sexes,17,
+Botswana,1990,Male,18,
+Botswana,1990,Female,17,
+Botswana,1990,Both sexes,17,
+Brazil,2012,Male,19,
+Brazil,2012,Female,22,
+Brazil,2012,Both sexes,21,
+Brazil,2000,Male,18,
+Brazil,2000,Female,21,
+Brazil,2000,Both sexes,19,
+Brazil,1990,Male,16,
+Brazil,1990,Female,19,
+Brazil,1990,Both sexes,18,
+Brunei Darussalam,2012,Male,20,
+Brunei Darussalam,2012,Female,21,
+Brunei Darussalam,2012,Both sexes,21,
+Brunei Darussalam,2000,Male,19,
+Brunei Darussalam,2000,Female,22,
+Brunei Darussalam,2000,Both sexes,21,
+Brunei Darussalam,1990,Male,17,
+Brunei Darussalam,1990,Female,20,
+Brunei Darussalam,1990,Both sexes,18,
+Bulgaria,2012,Male,17,
+Bulgaria,2012,Female,21,
+Bulgaria,2012,Both sexes,19,
+Bulgaria,2000,Male,16,
+Bulgaria,2000,Female,19,
+Bulgaria,2000,Both sexes,18,
+Bulgaria,1990,Male,16,
+Bulgaria,1990,Female,19,
+Bulgaria,1990,Both sexes,18,
+Burkina Faso,2012,Male,15,
+Burkina Faso,2012,Female,15,
+Burkina Faso,2012,Both sexes,15,
+Burkina Faso,2000,Male,14,
+Burkina Faso,2000,Female,15,
+Burkina Faso,2000,Both sexes,15,
+Burkina Faso,1990,Male,14,
+Burkina Faso,1990,Female,15,
+Burkina Faso,1990,Both sexes,15,
+Burundi,2012,Male,15,
+Burundi,2012,Female,17,
+Burundi,2012,Both sexes,16,
+Burundi,2000,Male,15,
+Burundi,2000,Female,16,
+Burundi,2000,Both sexes,15,
+Burundi,1990,Male,14,
+Burundi,1990,Female,16,
+Burundi,1990,Both sexes,15,
+Cabo Verde,2012,Male,17,
+Cabo Verde,2012,Female,22,
+Cabo Verde,2012,Both sexes,20,
+Cabo Verde,2000,Male,16,
+Cabo Verde,2000,Female,19,
+Cabo Verde,2000,Both sexes,18,
+Cabo Verde,1990,Male,16,
+Cabo Verde,1990,Female,18,
+Cabo Verde,1990,Both sexes,17,
+Cambodia,2012,Male,22,
+Cambodia,2012,Female,25,
+Cambodia,2012,Both sexes,24,
+Cambodia,2000,Male,19,
+Cambodia,2000,Female,22,
+Cambodia,2000,Both sexes,20,
+Cambodia,1990,Male,16,
+Cambodia,1990,Female,18,
+Cambodia,1990,Both sexes,17,
+Cameroon,2012,Male,16,
+Cameroon,2012,Female,17,
+Cameroon,2012,Both sexes,16,
+Cameroon,2000,Male,15,
+Cameroon,2000,Female,16,
+Cameroon,2000,Both sexes,16,
+Cameroon,1990,Male,15,
+Cameroon,1990,Female,16,
+Cameroon,1990,Both sexes,16,
+Canada,2012,Male,23,
+Canada,2012,Female,26,
+Canada,2012,Both sexes,25,
+Canada,2000,Male,21,
+Canada,2000,Female,25,
+Canada,2000,Both sexes,23,
+Canada,1990,Male,19,
+Canada,1990,Female,24,
+Canada,1990,Both sexes,22,
+Central African Republic,2012,Male,15,
+Central African Republic,2012,Female,16,
+Central African Republic,2012,Both sexes,16,
+Central African Republic,2000,Male,14,
+Central African Republic,2000,Female,15,
+Central African Republic,2000,Both sexes,15,
+Central African Republic,1990,Male,14,
+Central African Republic,1990,Female,15,
+Central African Republic,1990,Both sexes,15,
+Chad,2012,Male,14,
+Chad,2012,Female,15,
+Chad,2012,Both sexes,15,
+Chad,2000,Male,13,
+Chad,2000,Female,15,
+Chad,2000,Both sexes,14,
+Chad,1990,Male,13,
+Chad,1990,Female,15,
+Chad,1990,Both sexes,14,
+Chile,2012,Male,22,
+Chile,2012,Female,26,
+Chile,2012,Both sexes,24,
+Chile,2000,Male,20,
+Chile,2000,Female,24,
+Chile,2000,Both sexes,22,
+Chile,1990,Male,17,
+Chile,1990,Female,21,
+Chile,1990,Both sexes,19,
+China,2012,Male,18,
+China,2012,Female,21,
+China,2012,Both sexes,19,
+China,2000,Male,17,
+China,2000,Female,20,
+China,2000,Both sexes,18,
+China,1990,Male,16,
+China,1990,Female,19,
+China,1990,Both sexes,18,
+Colombia,2012,Male,23,
+Colombia,2012,Female,27,
+Colombia,2012,Both sexes,25,
+Colombia,2000,Male,21,
+Colombia,2000,Female,24,
+Colombia,2000,Both sexes,22,
+Colombia,1990,Male,19,
+Colombia,1990,Female,22,
+Colombia,1990,Both sexes,21,
+Comoros,2012,Male,15,
+Comoros,2012,Female,17,
+Comoros,2012,Both sexes,16,
+Comoros,2000,Male,15,
+Comoros,2000,Female,16,
+Comoros,2000,Both sexes,15,
+Comoros,1990,Male,14,
+Comoros,1990,Female,16,
+Comoros,1990,Both sexes,15,
+Congo,2012,Male,17,
+Congo,2012,Female,18,
+Congo,2012,Both sexes,17,
+Congo,2000,Male,16,
+Congo,2000,Female,17,
+Congo,2000,Both sexes,16,
+Congo,1990,Male,16,
+Congo,1990,Female,17,
+Congo,1990,Both sexes,16,
+Cook Islands,2012,Male,20,
+Cook Islands,2012,Female,22,
+Cook Islands,2012,Both sexes,21,
+Cook Islands,2000,Male,16,
+Cook Islands,2000,Female,20,
+Cook Islands,2000,Both sexes,18,
+Cook Islands,1990,Male,17,
+Cook Islands,1990,Female,18,
+Cook Islands,1990,Both sexes,17,
+Costa Rica,2012,Male,22,
+Costa Rica,2012,Female,25,
+Costa Rica,2012,Both sexes,23,
+Costa Rica,2000,Male,21,
+Costa Rica,2000,Female,23,
+Costa Rica,2000,Both sexes,22,
+Costa Rica,1990,Male,21,
+Costa Rica,1990,Female,22,
+Costa Rica,1990,Both sexes,22,
+Côte d’Ivoire,2012,Male,15,
+Côte d’Ivoire,2012,Female,16,
+Côte d’Ivoire,2012,Both sexes,16,
+Côte d’Ivoire,2000,Male,15,
+Côte d’Ivoire,2000,Female,16,
+Côte d’Ivoire,2000,Both sexes,15,
+Côte d’Ivoire,1990,Male,15,
+Côte d’Ivoire,1990,Female,17,
+Côte d’Ivoire,1990,Both sexes,16,
+Croatia,2012,Male,19,
+Croatia,2012,Female,23,
+Croatia,2012,Both sexes,21,
+Croatia,2000,Male,17,
+Croatia,2000,Female,21,
+Croatia,2000,Both sexes,19,
+Croatia,1990,Male,16,
+Croatia,1990,Female,20,
+Croatia,1990,Both sexes,18,
+Cuba,2012,Male,21,
+Cuba,2012,Female,24,
+Cuba,2012,Both sexes,22,
+Cuba,2000,Male,20,
+Cuba,2000,Female,23,
+Cuba,2000,Both sexes,22,
+Cuba,1990,Male,19,
+Cuba,1990,Female,21,
+Cuba,1990,Both sexes,20,
+Cyprus,2012,Male,23,
+Cyprus,2012,Female,26,
+Cyprus,2012,Both sexes,24,
+Cyprus,2000,Male,19,
+Cyprus,2000,Female,22,
+Cyprus,2000,Both sexes,21,
+Cyprus,1990,Male,19,
+Cyprus,1990,Female,22,
+Cyprus,1990,Both sexes,20,
+Czech Republic,2012,Male,19,
+Czech Republic,2012,Female,23,
+Czech Republic,2012,Both sexes,21,
+Czech Republic,2000,Male,17,
+Czech Republic,2000,Female,21,
+Czech Republic,2000,Both sexes,19,
+Czech Republic,1990,Male,15,
+Czech Republic,1990,Female,19,
+Czech Republic,1990,Both sexes,17,
+Democratic People's Republic of Korea,2012,Male,14,
+Democratic People's Republic of Korea,2012,Female,19,
+Democratic People's Republic of Korea,2012,Both sexes,17,
+Democratic People's Republic of Korea,2000,Male,12,
+Democratic People's Republic of Korea,2000,Female,18,
+Democratic People's Republic of Korea,2000,Both sexes,16,
+Democratic People's Republic of Korea,1990,Male,14,
+Democratic People's Republic of Korea,1990,Female,20,
+Democratic People's Republic of Korea,1990,Both sexes,17,
+Democratic Republic of the Congo,2012,Male,15,
+Democratic Republic of the Congo,2012,Female,16,
+Democratic Republic of the Congo,2012,Both sexes,15,
+Democratic Republic of the Congo,2000,Male,14,
+Democratic Republic of the Congo,2000,Female,15,
+Democratic Republic of the Congo,2000,Both sexes,15,
+Democratic Republic of the Congo,1990,Male,14,
+Democratic Republic of the Congo,1990,Female,16,
+Democratic Republic of the Congo,1990,Both sexes,15,
+Denmark,2012,Male,21,
+Denmark,2012,Female,24,
+Denmark,2012,Both sexes,23,
+Denmark,2000,Male,19,
+Denmark,2000,Female,22,
+Denmark,2000,Both sexes,21,
+Denmark,1990,Male,18,
+Denmark,1990,Female,22,
+Denmark,1990,Both sexes,20,
+Djibouti,2012,Male,15,
+Djibouti,2012,Female,17,
+Djibouti,2012,Both sexes,16,
+Djibouti,2000,Male,15,
+Djibouti,2000,Female,16,
+Djibouti,2000,Both sexes,16,
+Djibouti,1990,Male,15,
+Djibouti,1990,Female,16,
+Djibouti,1990,Both sexes,15,
+Dominica,2012,Male,21,
+Dominica,2012,Female,22,
+Dominica,2012,Both sexes,21,
+Dominica,2000,Male,20,
+Dominica,2000,Female,21,
+Dominica,2000,Both sexes,21,
+Dominica,1990,Male,19,
+Dominica,1990,Female,21,
+Dominica,1990,Both sexes,20,
+Dominican Republic,2012,Male,23,
+Dominican Republic,2012,Female,23,
+Dominican Republic,2012,Both sexes,23,
+Dominican Republic,2000,Male,22,
+Dominican Republic,2000,Female,22,
+Dominican Republic,2000,Both sexes,22,
+Dominican Republic,1990,Male,19,
+Dominican Republic,1990,Female,20,
+Dominican Republic,1990,Both sexes,19,
+Ecuador,2012,Male,21,
+Ecuador,2012,Female,23,
+Ecuador,2012,Both sexes,22,
+Ecuador,2000,Male,20,
+Ecuador,2000,Female,23,
+Ecuador,2000,Both sexes,21,
+Ecuador,1990,Male,19,
+Ecuador,1990,Female,21,
+Ecuador,1990,Both sexes,20,
+Egypt,2012,Male,16,
+Egypt,2012,Female,19,
+Egypt,2012,Both sexes,17,
+Egypt,2000,Male,16,
+Egypt,2000,Female,18,
+Egypt,2000,Both sexes,17,
+Egypt,1990,Male,16,
+Egypt,1990,Female,18,
+Egypt,1990,Both sexes,17,
+El Salvador,2012,Male,20,
+El Salvador,2012,Female,23,
+El Salvador,2012,Both sexes,22,
+El Salvador,2000,Male,20,
+El Salvador,2000,Female,22,
+El Salvador,2000,Both sexes,21,
+El Salvador,1990,Male,18,
+El Salvador,1990,Female,20,
+El Salvador,1990,Both sexes,19,
+Equatorial Guinea,2012,Male,16,
+Equatorial Guinea,2012,Female,17,
+Equatorial Guinea,2012,Both sexes,16,
+Equatorial Guinea,2000,Male,15,
+Equatorial Guinea,2000,Female,16,
+Equatorial Guinea,2000,Both sexes,15,
+Equatorial Guinea,1990,Male,14,
+Equatorial Guinea,1990,Female,15,
+Equatorial Guinea,1990,Both sexes,15,
+Eritrea,2012,Male,13,
+Eritrea,2012,Female,17,
+Eritrea,2012,Both sexes,15,
+Eritrea,2000,Male,12,
+Eritrea,2000,Female,15,
+Eritrea,2000,Both sexes,14,
+Eritrea,1990,Male,11,
+Eritrea,1990,Female,13,
+Eritrea,1990,Both sexes,12,
+Estonia,2012,Male,18,
+Estonia,2012,Female,24,
+Estonia,2012,Both sexes,21,
+Estonia,2000,Male,15,
+Estonia,2000,Female,21,
+Estonia,2000,Both sexes,19,
+Estonia,1990,Male,15,
+Estonia,1990,Female,20,
+Estonia,1990,Both sexes,18,
+Ethiopia,2012,Male,17,
+Ethiopia,2012,Female,19,
+Ethiopia,2012,Both sexes,18,
+Ethiopia,2000,Male,15,
+Ethiopia,2000,Female,17,
+Ethiopia,2000,Both sexes,16,
+Ethiopia,1990,Male,14,
+Ethiopia,1990,Female,15,
+Ethiopia,1990,Both sexes,15,
+Fiji,2012,Male,15,
+Fiji,2012,Female,19,
+Fiji,2012,Both sexes,17,
+Fiji,2000,Male,15,
+Fiji,2000,Female,17,
+Fiji,2000,Both sexes,16,
+Fiji,1990,Male,14,
+Fiji,1990,Female,16,
+Fiji,1990,Both sexes,15,
+Finland,2012,Male,22,
+Finland,2012,Female,26,
+Finland,2012,Both sexes,24,
+Finland,2000,Male,19,
+Finland,2000,Female,24,
+Finland,2000,Both sexes,22,
+Finland,1990,Male,17,
+Finland,1990,Female,22,
+Finland,1990,Both sexes,20,
+France,2012,Male,23,
+France,2012,Female,27,
+France,2012,Both sexes,25,
+France,2000,Male,20,
+France,2000,Female,26,
+France,2000,Both sexes,23,
+France,1990,Male,20,
+France,1990,Female,25,
+France,1990,Both sexes,22,
+Gabon,2012,Male,18,
+Gabon,2012,Female,19,
+Gabon,2012,Both sexes,18,
+Gabon,2000,Male,17,
+Gabon,2000,Female,18,
+Gabon,2000,Both sexes,17,
+Gabon,1990,Male,17,
+Gabon,1990,Female,18,
+Gabon,1990,Both sexes,17,
+Gambia,2012,Male,16,
+Gambia,2012,Female,17,
+Gambia,2012,Both sexes,17,
+Gambia,2000,Male,16,
+Gambia,2000,Female,17,
+Gambia,2000,Both sexes,16,
+Gambia,1990,Male,15,
+Gambia,1990,Female,16,
+Gambia,1990,Both sexes,16,
+Georgia,2012,Male,17,
+Georgia,2012,Female,22,
+Georgia,2012,Both sexes,20,
+Georgia,2000,Male,17,
+Georgia,2000,Female,20,
+Georgia,2000,Both sexes,19,
+Georgia,1990,Male,17,
+Georgia,1990,Female,20,
+Georgia,1990,Both sexes,19,
+Germany,2012,Male,22,
+Germany,2012,Female,25,
+Germany,2012,Both sexes,24,
+Germany,2000,Male,20,
+Germany,2000,Female,24,
+Germany,2000,Both sexes,22,
+Germany,1990,Male,18,
+Germany,1990,Female,22,
+Germany,1990,Both sexes,20,
+Ghana,2012,Male,17,
+Ghana,2012,Female,18,
+Ghana,2012,Both sexes,17,
+Ghana,2000,Male,16,
+Ghana,2000,Female,17,
+Ghana,2000,Both sexes,17,
+Ghana,1990,Male,16,
+Ghana,1990,Female,17,
+Ghana,1990,Both sexes,16,
+Greece,2012,Male,22,
+Greece,2012,Female,26,
+Greece,2012,Both sexes,24,
+Greece,2000,Male,21,
+Greece,2000,Female,23,
+Greece,2000,Both sexes,22,
+Greece,1990,Male,20,
+Greece,1990,Female,23,
+Greece,1990,Both sexes,21,
+Grenada,2012,Male,16,
+Grenada,2012,Female,23,
+Grenada,2012,Both sexes,19,
+Grenada,2000,Male,17,
+Grenada,2000,Female,22,
+Grenada,2000,Both sexes,20,
+Grenada,1990,Male,15,
+Grenada,1990,Female,20,
+Grenada,1990,Both sexes,18,
+Guatemala,2012,Male,20,
+Guatemala,2012,Female,23,
+Guatemala,2012,Both sexes,21,
+Guatemala,2000,Male,19,
+Guatemala,2000,Female,21,
+Guatemala,2000,Both sexes,20,
+Guatemala,1990,Male,17,
+Guatemala,1990,Female,19,
+Guatemala,1990,Both sexes,18,
+Guinea,2012,Male,16,
+Guinea,2012,Female,17,
+Guinea,2012,Both sexes,16,
+Guinea,2000,Male,15,
+Guinea,2000,Female,16,
+Guinea,2000,Both sexes,15,
+Guinea,1990,Male,15,
+Guinea,1990,Female,16,
+Guinea,1990,Both sexes,15,
+Guinea-Bissau,2012,Male,14,
+Guinea-Bissau,2012,Female,15,
+Guinea-Bissau,2012,Both sexes,15,
+Guinea-Bissau,2000,Male,14,
+Guinea-Bissau,2000,Female,15,
+Guinea-Bissau,2000,Both sexes,15,
+Guinea-Bissau,1990,Male,14,
+Guinea-Bissau,1990,Female,15,
+Guinea-Bissau,1990,Both sexes,14,
+Guyana,2012,Male,13,
+Guyana,2012,Female,17,
+Guyana,2012,Both sexes,15,
+Guyana,2000,Male,16,
+Guyana,2000,Female,18,
+Guyana,2000,Both sexes,17,
+Guyana,1990,Male,14,
+Guyana,1990,Female,18,
+Guyana,1990,Both sexes,16,
+Haiti,2012,Male,16,
+Haiti,2012,Female,18,
+Haiti,2012,Both sexes,17,
+Haiti,2000,Male,15,
+Haiti,2000,Female,16,
+Haiti,2000,Both sexes,16,
+Haiti,1990,Male,15,
+Haiti,1990,Female,16,
+Haiti,1990,Both sexes,15,
+Honduras,2012,Male,21,
+Honduras,2012,Female,23,
+Honduras,2012,Both sexes,22,
+Honduras,2000,Male,19,
+Honduras,2000,Female,22,
+Honduras,2000,Both sexes,21,
+Honduras,1990,Male,18,
+Honduras,1990,Female,20,
+Honduras,1990,Both sexes,19,
+Hungary,2012,Male,17,
+Hungary,2012,Female,22,
+Hungary,2012,Both sexes,20,
+Hungary,2000,Male,16,
+Hungary,2000,Female,21,
+Hungary,2000,Both sexes,18,
+Hungary,1990,Male,15,
+Hungary,1990,Female,19,
+Hungary,1990,Both sexes,17,
+Iceland,2012,Male,24,
+Iceland,2012,Female,25,
+Iceland,2012,Both sexes,25,
+Iceland,2000,Male,22,
+Iceland,2000,Female,24,
+Iceland,2000,Both sexes,23,
+Iceland,1990,Male,20,
+Iceland,1990,Female,24,
+Iceland,1990,Both sexes,22,
+India,2012,Male,16,
+India,2012,Female,18,
+India,2012,Both sexes,17,
+India,2000,Male,15,
+India,2000,Female,17,
+India,2000,Both sexes,16,
+India,1990,Male,14,
+India,1990,Female,16,
+India,1990,Both sexes,15,
+Indonesia,2012,Male,17,
+Indonesia,2012,Female,19,
+Indonesia,2012,Both sexes,18,
+Indonesia,2000,Male,16,
+Indonesia,2000,Female,18,
+Indonesia,2000,Both sexes,17,
+Indonesia,1990,Male,15,
+Indonesia,1990,Female,17,
+Indonesia,1990,Both sexes,16,
+Iran (Islamic Republic of),2012,Male,19,
+Iran (Islamic Republic of),2012,Female,20,
+Iran (Islamic Republic of),2012,Both sexes,20,
+Iran (Islamic Republic of),2000,Male,18,
+Iran (Islamic Republic of),2000,Female,18,
+Iran (Islamic Republic of),2000,Both sexes,18,
+Iran (Islamic Republic of),1990,Male,16,
+Iran (Islamic Republic of),1990,Female,16,
+Iran (Islamic Republic of),1990,Both sexes,16,
+Iraq,2012,Male,16,
+Iraq,2012,Female,20,
+Iraq,2012,Both sexes,18,
+Iraq,2000,Male,17,
+Iraq,2000,Female,20,
+Iraq,2000,Both sexes,18,
+Iraq,1990,Male,17,
+Iraq,1990,Female,19,
+Iraq,1990,Both sexes,18,
+Ireland,2012,Male,22,
+Ireland,2012,Female,25,
+Ireland,2012,Both sexes,24,
+Ireland,2000,Male,19,
+Ireland,2000,Female,22,
+Ireland,2000,Both sexes,20,
+Ireland,1990,Male,17,
+Ireland,1990,Female,21,
+Ireland,1990,Both sexes,19,
+Israel,2012,Male,23,
+Israel,2012,Female,26,
+Israel,2012,Both sexes,24,
+Israel,2000,Male,21,
+Israel,2000,Female,24,
+Israel,2000,Both sexes,22,
+Israel,1990,Male,20,
+Israel,1990,Female,22,
+Israel,1990,Both sexes,21,
+Italy,2012,Male,23,
+Italy,2012,Female,27,
+Italy,2012,Both sexes,25,
+Italy,2000,Male,21,
+Italy,2000,Female,25,
+Italy,2000,Both sexes,23,
+Italy,1990,Male,19,
+Italy,1990,Female,23,
+Italy,1990,Both sexes,21,
+Jamaica,2012,Male,20,
+Jamaica,2012,Female,23,
+Jamaica,2012,Both sexes,21,
+Jamaica,2000,Male,19,
+Jamaica,2000,Female,22,
+Jamaica,2000,Both sexes,21,
+Jamaica,1990,Male,19,
+Jamaica,1990,Female,21,
+Jamaica,1990,Both sexes,20,
+Japan,2012,Male,23,
+Japan,2012,Female,29,
+Japan,2012,Both sexes,26,
+Japan,2000,Male,22,
+Japan,2000,Female,27,
+Japan,2000,Both sexes,25,
+Japan,1990,Male,20,
+Japan,1990,Female,25,
+Japan,1990,Both sexes,23,
+Jordan,2012,Male,18,
+Jordan,2012,Female,20,
+Jordan,2012,Both sexes,19,
+Jordan,2000,Male,17,
+Jordan,2000,Female,19,
+Jordan,2000,Both sexes,18,
+Jordan,1990,Male,17,
+Jordan,1990,Female,18,
+Jordan,1990,Both sexes,17,
+Kazakhstan,2012,Male,13,
+Kazakhstan,2012,Female,18,
+Kazakhstan,2012,Both sexes,16,
+Kazakhstan,2000,Male,12,
+Kazakhstan,2000,Female,17,
+Kazakhstan,2000,Both sexes,15,
+Kazakhstan,1990,Male,15,
+Kazakhstan,1990,Female,19,
+Kazakhstan,1990,Both sexes,17,
+Kenya,2012,Male,17,
+Kenya,2012,Female,18,
+Kenya,2012,Both sexes,18,
+Kenya,2000,Male,16,
+Kenya,2000,Female,18,
+Kenya,2000,Both sexes,17,
+Kenya,1990,Male,16,
+Kenya,1990,Female,18,
+Kenya,1990,Both sexes,17,
+Kiribati,2012,Male,16,
+Kiribati,2012,Female,18,
+Kiribati,2012,Both sexes,17,
+Kiribati,2000,Male,15,
+Kiribati,2000,Female,17,
+Kiribati,2000,Both sexes,16,
+Kiribati,1990,Male,15,
+Kiribati,1990,Female,17,
+Kiribati,1990,Both sexes,16,
+Kuwait,2012,Male,21,
+Kuwait,2012,Female,21,
+Kuwait,2012,Both sexes,21,
+Kuwait,2000,Male,18,
+Kuwait,2000,Female,18,
+Kuwait,2000,Both sexes,18,
+Kuwait,1990,Male,19,
+Kuwait,1990,Female,18,
+Kuwait,1990,Both sexes,18,
+Kyrgyzstan,2012,Male,15,
+Kyrgyzstan,2012,Female,19,
+Kyrgyzstan,2012,Both sexes,17,
+Kyrgyzstan,2000,Male,15,
+Kyrgyzstan,2000,Female,18,
+Kyrgyzstan,2000,Both sexes,16,
+Kyrgyzstan,1990,Male,16,
+Kyrgyzstan,1990,Female,19,
+Kyrgyzstan,1990,Both sexes,18,
+Lao People's Democratic Republic,2012,Male,16,
+Lao People's Democratic Republic,2012,Female,18,
+Lao People's Democratic Republic,2012,Both sexes,17,
+Lao People's Democratic Republic,2000,Male,15,
+Lao People's Democratic Republic,2000,Female,17,
+Lao People's Democratic Republic,2000,Both sexes,16,
+Lao People's Democratic Republic,1990,Male,14,
+Lao People's Democratic Republic,1990,Female,16,
+Lao People's Democratic Republic,1990,Both sexes,15,
+Latvia,2012,Male,16,
+Latvia,2012,Female,22,
+Latvia,2012,Both sexes,20,
+Latvia,2000,Male,15,
+Latvia,2000,Female,21,
+Latvia,2000,Both sexes,19,
+Latvia,1990,Male,15,
+Latvia,1990,Female,20,
+Latvia,1990,Both sexes,18,
+Lebanon,2012,Male,21,
+Lebanon,2012,Female,25,
+Lebanon,2012,Both sexes,22,
+Lebanon,2000,Male,18,
+Lebanon,2000,Female,20,
+Lebanon,2000,Both sexes,19,
+Lebanon,1990,Male,16,
+Lebanon,1990,Female,18,
+Lebanon,1990,Both sexes,17,
+Lesotho,2012,Male,15,
+Lesotho,2012,Female,17,
+Lesotho,2012,Both sexes,16,
+Lesotho,2000,Male,15,
+Lesotho,2000,Female,17,
+Lesotho,2000,Both sexes,16,
+Lesotho,1990,Male,16,
+Lesotho,1990,Female,17,
+Lesotho,1990,Both sexes,17,
+Liberia,2012,Male,15,
+Liberia,2012,Female,17,
+Liberia,2012,Both sexes,16,
+Liberia,2000,Male,14,
+Liberia,2000,Female,15,
+Liberia,2000,Both sexes,15,
+Liberia,1990,Male,13,
+Liberia,1990,Female,15,
+Liberia,1990,Both sexes,14,
+Libya,2012,Male,18,
+Libya,2012,Female,21,
+Libya,2012,Both sexes,20,
+Libya,2000,Male,17,
+Libya,2000,Female,19,
+Libya,2000,Both sexes,18,
+Libya,1990,Male,16,
+Libya,1990,Female,18,
+Libya,1990,Both sexes,17,
+Lithuania,2012,Male,17,
+Lithuania,2012,Female,23,
+Lithuania,2012,Both sexes,21,
+Lithuania,2000,Male,17,
+Lithuania,2000,Female,22,
+Lithuania,2000,Both sexes,20,
+Lithuania,1990,Male,16,
+Lithuania,1990,Female,21,
+Lithuania,1990,Both sexes,19,
+Luxembourg,2012,Male,23,
+Luxembourg,2012,Female,26,
+Luxembourg,2012,Both sexes,25,
+Luxembourg,2000,Male,20,
+Luxembourg,2000,Female,24,
+Luxembourg,2000,Both sexes,22,
+Luxembourg,1990,Male,18,
+Luxembourg,1990,Female,22,
+Luxembourg,1990,Both sexes,20,
+Madagascar,2012,Male,16,
+Madagascar,2012,Female,17,
+Madagascar,2012,Both sexes,17,
+Madagascar,2000,Male,15,
+Madagascar,2000,Female,16,
+Madagascar,2000,Both sexes,16,
+Madagascar,1990,Male,15,
+Madagascar,1990,Female,16,
+Madagascar,1990,Both sexes,15,
+Malawi,2012,Male,16,
+Malawi,2012,Female,17,
+Malawi,2012,Both sexes,16,
+Malawi,2000,Male,15,
+Malawi,2000,Female,16,
+Malawi,2000,Both sexes,15,
+Malawi,1990,Male,14,
+Malawi,1990,Female,15,
+Malawi,1990,Both sexes,15,
+Malaysia,2012,Male,18,
+Malaysia,2012,Female,20,
+Malaysia,2012,Both sexes,19,
+Malaysia,2000,Male,16,
+Malaysia,2000,Female,18,
+Malaysia,2000,Both sexes,17,
+Malaysia,1990,Male,16,
+Malaysia,1990,Female,18,
+Malaysia,1990,Both sexes,17,
+Maldives,2012,Male,20,
+Maldives,2012,Female,21,
+Maldives,2012,Both sexes,20,
+Maldives,2000,Male,16,
+Maldives,2000,Female,15,
+Maldives,2000,Both sexes,15,
+Maldives,1990,Male,14,
+Maldives,1990,Female,12,
+Maldives,1990,Both sexes,13,
+Mali,2012,Male,15,
+Mali,2012,Female,16,
+Mali,2012,Both sexes,15,
+Mali,2000,Male,14,
+Mali,2000,Female,14,
+Mali,2000,Both sexes,14,
+Mali,1990,Male,14,
+Mali,1990,Female,14,
+Mali,1990,Both sexes,14,
+Malta,2012,Male,22,
+Malta,2012,Female,25,
+Malta,2012,Both sexes,24,
+Malta,2000,Male,20,
+Malta,2000,Female,23,
+Malta,2000,Both sexes,21,
+Malta,1990,Male,18,
+Malta,1990,Female,21,
+Malta,1990,Both sexes,19,
+Marshall Islands,2012,Male,17,
+Marshall Islands,2012,Female,20,
+Marshall Islands,2012,Both sexes,18,
+Marshall Islands,2000,Male,16,
+Marshall Islands,2000,Female,18,
+Marshall Islands,2000,Both sexes,17,
+Marshall Islands,1990,Male,15,
+Marshall Islands,1990,Female,17,
+Marshall Islands,1990,Both sexes,16,
+Mauritania,2012,Male,16,
+Mauritania,2012,Female,17,
+Mauritania,2012,Both sexes,16,
+Mauritania,2000,Male,15,
+Mauritania,2000,Female,17,
+Mauritania,2000,Both sexes,16,
+Mauritania,1990,Male,15,
+Mauritania,1990,Female,16,
+Mauritania,1990,Both sexes,16,
+Mauritius,2012,Male,18,
+Mauritius,2012,Female,22,
+Mauritius,2012,Both sexes,20,
+Mauritius,2000,Male,16,
+Mauritius,2000,Female,20,
+Mauritius,2000,Both sexes,18,
+Mauritius,1990,Male,15,
+Mauritius,1990,Female,19,
+Mauritius,1990,Both sexes,17,
+Mexico,2012,Male,21,
+Mexico,2012,Female,23,
+Mexico,2012,Both sexes,22,
+Mexico,2000,Male,20,
+Mexico,2000,Female,23,
+Mexico,2000,Both sexes,21,
+Mexico,1990,Male,20,
+Mexico,1990,Female,22,
+Mexico,1990,Both sexes,21,
+Micronesia (Federated States of),2012,Male,16,
+Micronesia (Federated States of),2012,Female,18,
+Micronesia (Federated States of),2012,Both sexes,17,
+Micronesia (Federated States of),2000,Male,16,
+Micronesia (Federated States of),2000,Female,18,
+Micronesia (Federated States of),2000,Both sexes,17,
+Micronesia (Federated States of),1990,Male,16,
+Micronesia (Federated States of),1990,Female,17,
+Micronesia (Federated States of),1990,Both sexes,17,
+Monaco,2012,Male,23,
+Monaco,2012,Female,27,
+Monaco,2012,Both sexes,25,
+Monaco,2000,Male,21,
+Monaco,2000,Female,27,
+Monaco,2000,Both sexes,24,
+Monaco,1990,Male,20,
+Monaco,1990,Female,25,
+Monaco,1990,Both sexes,22,
+Mongolia,2012,Male,14,
+Mongolia,2012,Female,18,
+Mongolia,2012,Both sexes,16,
+Mongolia,2000,Male,13,
+Mongolia,2000,Female,16,
+Mongolia,2000,Both sexes,14,
+Mongolia,1990,Male,14,
+Mongolia,1990,Female,16,
+Mongolia,1990,Both sexes,15,
+Montenegro,2012,Male,18,
+Montenegro,2012,Female,21,
+Montenegro,2012,Both sexes,20,
+Montenegro,2000,Male,19,
+Montenegro,2000,Female,21,
+Montenegro,2000,Both sexes,20,
+Montenegro,1990,Male,19,
+Montenegro,1990,Female,23,
+Montenegro,1990,Both sexes,22,
+Morocco,2012,Male,17,
+Morocco,2012,Female,19,
+Morocco,2012,Both sexes,18,
+Morocco,2000,Male,16,
+Morocco,2000,Female,18,
+Morocco,2000,Both sexes,17,
+Morocco,1990,Male,16,
+Morocco,1990,Female,18,
+Morocco,1990,Both sexes,17,
+Mozambique,2012,Male,16,
+Mozambique,2012,Female,17,
+Mozambique,2012,Both sexes,16,
+Mozambique,2000,Male,14,
+Mozambique,2000,Female,16,
+Mozambique,2000,Both sexes,15,
+Mozambique,1990,Male,14,
+Mozambique,1990,Female,15,
+Mozambique,1990,Both sexes,14,
+Myanmar,2012,Male,16,
+Myanmar,2012,Female,17,
+Myanmar,2012,Both sexes,17,
+Myanmar,2000,Male,15,
+Myanmar,2000,Female,17,
+Myanmar,2000,Both sexes,16,
+Myanmar,1990,Male,15,
+Myanmar,1990,Female,16,
+Myanmar,1990,Both sexes,16,
+Namibia,2012,Male,18,
+Namibia,2012,Female,19,
+Namibia,2012,Both sexes,18,
+Namibia,2000,Male,16,
+Namibia,2000,Female,17,
+Namibia,2000,Both sexes,16,
+Namibia,1990,Male,16,
+Namibia,1990,Female,16,
+Namibia,1990,Both sexes,16,
+Nauru,2012,Male,20,
+Nauru,2012,Female,27,
+Nauru,2012,Both sexes,23,
+Nauru,2000,Male,18,
+Nauru,2000,Female,25,
+Nauru,2000,Both sexes,21,
+Nauru,1990,Male,17,
+Nauru,1990,Female,23,
+Nauru,1990,Both sexes,20,
+Nepal,2012,Male,16,
+Nepal,2012,Female,18,
+Nepal,2012,Both sexes,17,
+Nepal,2000,Male,15,
+Nepal,2000,Female,17,
+Nepal,2000,Both sexes,16,
+Nepal,1990,Male,14,
+Nepal,1990,Female,16,
+Nepal,1990,Both sexes,15,
+Netherlands,2012,Male,22,
+Netherlands,2012,Female,25,
+Netherlands,2012,Both sexes,24,
+Netherlands,2000,Male,19,
+Netherlands,2000,Female,24,
+Netherlands,2000,Both sexes,22,
+Netherlands,1990,Male,18,
+Netherlands,1990,Female,23,
+Netherlands,1990,Both sexes,21,
+New Zealand,2012,Male,24,
+New Zealand,2012,Female,26,
+New Zealand,2012,Both sexes,25,
+New Zealand,2000,Male,21,
+New Zealand,2000,Female,24,
+New Zealand,2000,Both sexes,23,
+New Zealand,1990,Male,18,
+New Zealand,1990,Female,22,
+New Zealand,1990,Both sexes,20,
+Nicaragua,2012,Male,20,
+Nicaragua,2012,Female,22,
+Nicaragua,2012,Both sexes,21,
+Nicaragua,2000,Male,21,
+Nicaragua,2000,Female,24,
+Nicaragua,2000,Both sexes,22,
+Nicaragua,1990,Male,20,
+Nicaragua,1990,Female,24,
+Nicaragua,1990,Both sexes,22,
+Niger,2012,Male,15,
+Niger,2012,Female,16,
+Niger,2012,Both sexes,15,
+Niger,2000,Male,15,
+Niger,2000,Female,15,
+Niger,2000,Both sexes,15,
+Niger,1990,Male,14,
+Niger,1990,Female,15,
+Niger,1990,Both sexes,15,
+Nigeria,2012,Male,15,
+Nigeria,2012,Female,16,
+Nigeria,2012,Both sexes,16,
+Nigeria,2000,Male,14,
+Nigeria,2000,Female,15,
+Nigeria,2000,Both sexes,15,
+Nigeria,1990,Male,14,
+Nigeria,1990,Female,15,
+Nigeria,1990,Both sexes,15,
+Niue,2012,Male,17,
+Niue,2012,Female,21,
+Niue,2012,Both sexes,19,
+Niue,2000,Male,16,
+Niue,2000,Female,20,
+Niue,2000,Both sexes,18,
+Niue,1990,Male,16,
+Niue,1990,Female,19,
+Niue,1990,Both sexes,17,
+Norway,2012,Male,22,
+Norway,2012,Female,25,
+Norway,2012,Both sexes,24,
+Norway,2000,Male,20,
+Norway,2000,Female,24,
+Norway,2000,Both sexes,22,
+Norway,1990,Male,18,
+Norway,1990,Female,23,
+Norway,1990,Both sexes,21,
+Oman,2012,Male,19,
+Oman,2012,Female,22,
+Oman,2012,Both sexes,20,
+Oman,2000,Male,17,
+Oman,2000,Female,19,
+Oman,2000,Both sexes,18,
+Oman,1990,Male,16,
+Oman,1990,Female,18,
+Oman,1990,Both sexes,17,
+Pakistan,2012,Male,17,
+Pakistan,2012,Female,18,
+Pakistan,2012,Both sexes,17,
+Pakistan,2000,Male,17,
+Pakistan,2000,Female,18,
+Pakistan,2000,Both sexes,17,
+Pakistan,1990,Male,17,
+Pakistan,1990,Female,18,
+Pakistan,1990,Both sexes,17,
+Palau,2012,Male,17,
+Palau,2012,Female,19,
+Palau,2012,Both sexes,18,
+Palau,2000,Male,16,
+Palau,2000,Female,18,
+Palau,2000,Both sexes,17,
+Palau,1990,Male,15,
+Palau,1990,Female,17,
+Palau,1990,Both sexes,16,
+Panama,2012,Male,22,
+Panama,2012,Female,25,
+Panama,2012,Both sexes,23,
+Panama,2000,Male,21,
+Panama,2000,Female,24,
+Panama,2000,Both sexes,23,
+Panama,1990,Male,20,
+Panama,1990,Female,22,
+Panama,1990,Both sexes,21,
+Papua New Guinea,2012,Male,13,
+Papua New Guinea,2012,Female,16,
+Papua New Guinea,2012,Both sexes,15,
+Papua New Guinea,2000,Male,12,
+Papua New Guinea,2000,Female,16,
+Papua New Guinea,2000,Both sexes,14,
+Papua New Guinea,1990,Male,12,
+Papua New Guinea,1990,Female,15,
+Papua New Guinea,1990,Both sexes,13,
+Paraguay,2012,Male,20,
+Paraguay,2012,Female,23,
+Paraguay,2012,Both sexes,21,
+Paraguay,2000,Male,19,
+Paraguay,2000,Female,23,
+Paraguay,2000,Both sexes,21,
+Paraguay,1990,Male,19,
+Paraguay,1990,Female,22,
+Paraguay,1990,Both sexes,21,
+Peru,2012,Male,21,
+Peru,2012,Female,24,
+Peru,2012,Both sexes,23,
+Peru,2000,Male,19,
+Peru,2000,Female,21,
+Peru,2000,Both sexes,20,
+Peru,1990,Male,20,
+Peru,1990,Female,22,
+Peru,1990,Both sexes,21,
+Philippines,2012,Male,15,
+Philippines,2012,Female,19,
+Philippines,2012,Both sexes,17,
+Philippines,2000,Male,17,
+Philippines,2000,Female,20,
+Philippines,2000,Both sexes,19,
+Philippines,1990,Male,17,
+Philippines,1990,Female,19,
+Philippines,1990,Both sexes,18,
+Poland,2012,Male,19,
+Poland,2012,Female,24,
+Poland,2012,Both sexes,21,
+Poland,2000,Male,17,
+Poland,2000,Female,22,
+Poland,2000,Both sexes,19,
+Poland,1990,Male,15,
+Poland,1990,Female,20,
+Poland,1990,Both sexes,18,
+Portugal,2012,Male,22,
+Portugal,2012,Female,26,
+Portugal,2012,Both sexes,24,
+Portugal,2000,Male,19,
+Portugal,2000,Female,23,
+Portugal,2000,Both sexes,21,
+Portugal,1990,Male,18,
+Portugal,1990,Female,22,
+Portugal,1990,Both sexes,20,
+Qatar,2012,Male,22,
+Qatar,2012,Female,22,
+Qatar,2012,Both sexes,22,
+Qatar,2000,Male,21,
+Qatar,2000,Female,20,
+Qatar,2000,Both sexes,20,
+Qatar,1990,Male,19,
+Qatar,1990,Female,20,
+Qatar,1990,Both sexes,19,
+Republic of Korea,2012,Male,21,
+Republic of Korea,2012,Female,27,
+Republic of Korea,2012,Both sexes,24,
+Republic of Korea,2000,Male,18,
+Republic of Korea,2000,Female,23,
+Republic of Korea,2000,Both sexes,21,
+Republic of Korea,1990,Male,15,
+Republic of Korea,1990,Female,20,
+Republic of Korea,1990,Both sexes,18,
+Republic of Moldova,2012,Male,15,
+Republic of Moldova,2012,Female,19,
+Republic of Moldova,2012,Both sexes,17,
+Republic of Moldova,2000,Male,14,
+Republic of Moldova,2000,Female,17,
+Republic of Moldova,2000,Both sexes,16,
+Republic of Moldova,1990,Male,15,
+Republic of Moldova,1990,Female,19,
+Republic of Moldova,1990,Both sexes,17,
+Romania,2012,Male,17,
+Romania,2012,Female,22,
+Romania,2012,Both sexes,20,
+Romania,2000,Male,17,
+Romania,2000,Female,20,
+Romania,2000,Both sexes,19,
+Romania,1990,Male,17,
+Romania,1990,Female,19,
+Romania,1990,Both sexes,18,
+Russian Federation,2012,Male,14,
+Russian Federation,2012,Female,20,
+Russian Federation,2012,Both sexes,17,
+Russian Federation,2000,Male,13,
+Russian Federation,2000,Female,19,
+Russian Federation,2000,Both sexes,17,
+Russian Federation,1990,Male,15,
+Russian Federation,1990,Female,20,
+Russian Federation,1990,Both sexes,18,
+Rwanda,2012,Male,17,
+Rwanda,2012,Female,19,
+Rwanda,2012,Both sexes,18,
+Rwanda,2000,Male,15,
+Rwanda,2000,Female,16,
+Rwanda,2000,Both sexes,15,
+Rwanda,1990,Male,14,
+Rwanda,1990,Female,15,
+Rwanda,1990,Both sexes,15,
+Saint Kitts and Nevis,2012,Male,17,
+Saint Kitts and Nevis,2012,Female,21,
+Saint Kitts and Nevis,2012,Both sexes,19,
+Saint Kitts and Nevis,2000,Male,17,
+Saint Kitts and Nevis,2000,Female,19,
+Saint Kitts and Nevis,2000,Both sexes,18,
+Saint Kitts and Nevis,1990,Male,16,
+Saint Kitts and Nevis,1990,Female,19,
+Saint Kitts and Nevis,1990,Both sexes,17,
+Saint Lucia,2012,Male,19,
+Saint Lucia,2012,Female,23,
+Saint Lucia,2012,Both sexes,21,
+Saint Lucia,2000,Male,20,
+Saint Lucia,2000,Female,22,
+Saint Lucia,2000,Both sexes,21,
+Saint Lucia,1990,Male,19,
+Saint Lucia,1990,Female,21,
+Saint Lucia,1990,Both sexes,20,
+Saint Vincent and the Grenadines,2012,Male,20,
+Saint Vincent and the Grenadines,2012,Female,22,
+Saint Vincent and the Grenadines,2012,Both sexes,21,
+Saint Vincent and the Grenadines,2000,Male,18,
+Saint Vincent and the Grenadines,2000,Female,21,
+Saint Vincent and the Grenadines,2000,Both sexes,19,
+Saint Vincent and the Grenadines,1990,Male,18,
+Saint Vincent and the Grenadines,1990,Female,21,
+Saint Vincent and the Grenadines,1990,Both sexes,19,
+Samoa,2012,Male,16,
+Samoa,2012,Female,21,
+Samoa,2012,Both sexes,19,
+Samoa,2000,Male,15,
+Samoa,2000,Female,19,
+Samoa,2000,Both sexes,17,
+Samoa,1990,Male,14,
+Samoa,1990,Female,18,
+Samoa,1990,Both sexes,15,
+San Marino,2012,Male,24,
+San Marino,2012,Female,25,
+San Marino,2012,Both sexes,25,
+San Marino,2000,Male,22,
+San Marino,2000,Female,26,
+San Marino,2000,Both sexes,24,
+San Marino,1990,Male,20,
+San Marino,1990,Female,25,
+San Marino,1990,Both sexes,23,
+Sao Tome and Principe,2012,Male,17,
+Sao Tome and Principe,2012,Female,19,
+Sao Tome and Principe,2012,Both sexes,18,
+Sao Tome and Principe,2000,Male,17,
+Sao Tome and Principe,2000,Female,18,
+Sao Tome and Principe,2000,Both sexes,18,
+Sao Tome and Principe,1990,Male,17,
+Sao Tome and Principe,1990,Female,18,
+Sao Tome and Principe,1990,Both sexes,17,
+Saudi Arabia,2012,Male,18,
+Saudi Arabia,2012,Female,21,
+Saudi Arabia,2012,Both sexes,19,
+Saudi Arabia,2000,Male,17,
+Saudi Arabia,2000,Female,19,
+Saudi Arabia,2000,Both sexes,18,
+Saudi Arabia,1990,Male,16,
+Saudi Arabia,1990,Female,18,
+Saudi Arabia,1990,Both sexes,17,
+Senegal,2012,Male,15,
+Senegal,2012,Female,17,
+Senegal,2012,Both sexes,16,
+Senegal,2000,Male,15,
+Senegal,2000,Female,16,
+Senegal,2000,Both sexes,16,
+Senegal,1990,Male,15,
+Senegal,1990,Female,16,
+Senegal,1990,Both sexes,16,
+Serbia,2012,Male,17,
+Serbia,2012,Female,20,
+Serbia,2012,Both sexes,19,
+Serbia,2000,Male,16,
+Serbia,2000,Female,19,
+Serbia,2000,Both sexes,18,
+Serbia,1990,Male,17,
+Serbia,1990,Female,20,
+Serbia,1990,Both sexes,19,
+Seychelles,2012,Male,17,
+Seychelles,2012,Female,23,
+Seychelles,2012,Both sexes,20,
+Seychelles,2000,Male,16,
+Seychelles,2000,Female,21,
+Seychelles,2000,Both sexes,19,
+Seychelles,1990,Male,14,
+Seychelles,1990,Female,21,
+Seychelles,1990,Both sexes,17,
+Sierra Leone,2012,Male,12,
+Sierra Leone,2012,Female,13,
+Sierra Leone,2012,Both sexes,13,
+Sierra Leone,2000,Male,11,
+Sierra Leone,2000,Female,11,
+Sierra Leone,2000,Both sexes,11,
+Sierra Leone,1990,Male,11,
+Sierra Leone,1990,Female,11,
+Sierra Leone,1990,Both sexes,11,
+Singapore,2012,Male,23,
+Singapore,2012,Female,27,
+Singapore,2012,Both sexes,25,
+Singapore,2000,Male,20,
+Singapore,2000,Female,24,
+Singapore,2000,Both sexes,22,
+Singapore,1990,Male,18,
+Singapore,1990,Female,21,
+Singapore,1990,Both sexes,20,
+Slovakia,2012,Male,18,
+Slovakia,2012,Female,23,
+Slovakia,2012,Both sexes,21,
+Slovakia,2000,Male,16,
+Slovakia,2000,Female,21,
+Slovakia,2000,Both sexes,19,
+Slovakia,1990,Male,15,
+Slovakia,1990,Female,20,
+Slovakia,1990,Both sexes,18,
+Slovenia,2012,Male,21,
+Slovenia,2012,Female,25,
+Slovenia,2012,Both sexes,23,
+Slovenia,2000,Male,18,
+Slovenia,2000,Female,23,
+Slovenia,2000,Both sexes,21,
+Slovenia,1990,Male,17,
+Slovenia,1990,Female,21,
+Slovenia,1990,Both sexes,19,
+Solomon Islands,2012,Male,16,
+Solomon Islands,2012,Female,18,
+Solomon Islands,2012,Both sexes,17,
+Solomon Islands,2000,Male,15,
+Solomon Islands,2000,Female,17,
+Solomon Islands,2000,Both sexes,16,
+Solomon Islands,1990,Male,15,
+Solomon Islands,1990,Female,16,
+Solomon Islands,1990,Both sexes,15,
+Somalia,2012,Male,15,
+Somalia,2012,Female,17,
+Somalia,2012,Both sexes,16,
+Somalia,2000,Male,15,
+Somalia,2000,Female,16,
+Somalia,2000,Both sexes,15,
+Somalia,1990,Male,14,
+Somalia,1990,Female,15,
+Somalia,1990,Both sexes,15,
+South Africa,2012,Male,14,
+South Africa,2012,Female,18,
+South Africa,2012,Both sexes,16,
+South Africa,2000,Male,13,
+South Africa,2000,Female,18,
+South Africa,2000,Both sexes,16,
+South Africa,1990,Male,13,
+South Africa,1990,Female,17,
+South Africa,1990,Both sexes,15,
+South Sudan,2012,Male,16,
+South Sudan,2012,Female,17,
+South Sudan,2012,Both sexes,16,
+South Sudan,2000,Male,15,
+South Sudan,2000,Female,16,
+South Sudan,2000,Both sexes,15,
+South Sudan,1990,Male,13,
+South Sudan,1990,Female,14,
+South Sudan,1990,Both sexes,14,
+Spain,2012,Male,22,
+Spain,2012,Female,27,
+Spain,2012,Both sexes,25,
+Spain,2000,Male,21,
+Spain,2000,Female,25,
+Spain,2000,Both sexes,23,
+Spain,1990,Male,19,
+Spain,1990,Female,24,
+Spain,1990,Both sexes,22,
+Sri Lanka,2012,Male,18,
+Sri Lanka,2012,Female,22,
+Sri Lanka,2012,Both sexes,20,
+Sri Lanka,2000,Male,17,
+Sri Lanka,2000,Female,20,
+Sri Lanka,2000,Both sexes,18,
+Sri Lanka,1990,Male,18,
+Sri Lanka,1990,Female,21,
+Sri Lanka,1990,Both sexes,19,
+Sudan,2012,Male,17,
+Sudan,2012,Female,18,
+Sudan,2012,Both sexes,17,
+Sudan,2000,Male,16,
+Sudan,2000,Female,17,
+Sudan,2000,Both sexes,17,
+Sudan,1990,Male,16,
+Sudan,1990,Female,17,
+Sudan,1990,Both sexes,16,
+Suriname,2012,Male,22,
+Suriname,2012,Female,25,
+Suriname,2012,Both sexes,23,
+Suriname,2000,Male,20,
+Suriname,2000,Female,24,
+Suriname,2000,Both sexes,22,
+Suriname,1990,Male,19,
+Suriname,1990,Female,22,
+Suriname,1990,Both sexes,21,
+Swaziland,2012,Male,17,
+Swaziland,2012,Female,17,
+Swaziland,2012,Both sexes,17,
+Swaziland,2000,Male,16,
+Swaziland,2000,Female,16,
+Swaziland,2000,Both sexes,16,
+Swaziland,1990,Male,16,
+Swaziland,1990,Female,15,
+Swaziland,1990,Both sexes,16,
+Sweden,2012,Male,23,
+Sweden,2012,Female,25,
+Sweden,2012,Both sexes,24,
+Sweden,2000,Male,21,
+Sweden,2000,Female,24,
+Sweden,2000,Both sexes,23,
+Sweden,1990,Male,19,
+Sweden,1990,Female,23,
+Sweden,1990,Both sexes,21,
+Switzerland,2012,Male,24,
+Switzerland,2012,Female,27,
+Switzerland,2012,Both sexes,25,
+Switzerland,2000,Male,21,
+Switzerland,2000,Female,25,
+Switzerland,2000,Both sexes,23,
+Switzerland,1990,Male,19,
+Switzerland,1990,Female,24,
+Switzerland,1990,Both sexes,22,
+Syrian Arab Republic,2012,Male,18,
+Syrian Arab Republic,2012,Female,22,
+Syrian Arab Republic,2012,Both sexes,19,
+Syrian Arab Republic,2000,Male,18,
+Syrian Arab Republic,2000,Female,20,
+Syrian Arab Republic,2000,Both sexes,19,
+Syrian Arab Republic,1990,Male,17,
+Syrian Arab Republic,1990,Female,18,
+Syrian Arab Republic,1990,Both sexes,18,
+Tajikistan,2012,Male,17,
+Tajikistan,2012,Female,17,
+Tajikistan,2012,Both sexes,17,
+Tajikistan,2000,Male,17,
+Tajikistan,2000,Female,16,
+Tajikistan,2000,Both sexes,17,
+Tajikistan,1990,Male,17,
+Tajikistan,1990,Female,18,
+Tajikistan,1990,Both sexes,18,
+Thailand,2012,Male,19,
+Thailand,2012,Female,23,
+Thailand,2012,Both sexes,21,
+Thailand,2000,Male,18,
+Thailand,2000,Female,22,
+Thailand,2000,Both sexes,20,
+Thailand,1990,Male,16,
+Thailand,1990,Female,19,
+Thailand,1990,Both sexes,18,
+The former Yugoslav Republic of Macedonia,2012,Male,18,
+The former Yugoslav Republic of Macedonia,2012,Female,20,
+The former Yugoslav Republic of Macedonia,2012,Both sexes,19,
+The former Yugoslav Republic of Macedonia,2000,Male,17,
+The former Yugoslav Republic of Macedonia,2000,Female,19,
+The former Yugoslav Republic of Macedonia,2000,Both sexes,18,
+The former Yugoslav Republic of Macedonia,1990,Male,18,
+The former Yugoslav Republic of Macedonia,1990,Female,20,
+The former Yugoslav Republic of Macedonia,1990,Both sexes,19,
+Timor-Leste,2012,Male,16,
+Timor-Leste,2012,Female,18,
+Timor-Leste,2012,Both sexes,17,
+Timor-Leste,2000,Male,15,
+Timor-Leste,2000,Female,16,
+Timor-Leste,2000,Both sexes,16,
+Timor-Leste,1990,Male,13,
+Timor-Leste,1990,Female,15,
+Timor-Leste,1990,Both sexes,14,
+Togo,2012,Male,16,
+Togo,2012,Female,17,
+Togo,2012,Both sexes,17,
+Togo,2000,Male,16,
+Togo,2000,Female,16,
+Togo,2000,Both sexes,16,
+Togo,1990,Male,16,
+Togo,1990,Female,17,
+Togo,1990,Both sexes,16,
+Tonga,2012,Male,18,
+Tonga,2012,Female,18,
+Tonga,2012,Both sexes,18,
+Tonga,2000,Male,16,
+Tonga,2000,Female,18,
+Tonga,2000,Both sexes,17,
+Tonga,1990,Male,14,
+Tonga,1990,Female,19,
+Tonga,1990,Both sexes,17,
+Trinidad and Tobago,2012,Male,16,
+Trinidad and Tobago,2012,Female,20,
+Trinidad and Tobago,2012,Both sexes,18,
+Trinidad and Tobago,2000,Male,15,
+Trinidad and Tobago,2000,Female,20,
+Trinidad and Tobago,2000,Both sexes,17,
+Trinidad and Tobago,1990,Male,15,
+Trinidad and Tobago,1990,Female,18,
+Trinidad and Tobago,1990,Both sexes,17,
+Tunisia,2012,Male,19,
+Tunisia,2012,Female,22,
+Tunisia,2012,Both sexes,21,
+Tunisia,2000,Male,19,
+Tunisia,2000,Female,20,
+Tunisia,2000,Both sexes,19,
+Tunisia,1990,Male,18,
+Tunisia,1990,Female,19,
+Tunisia,1990,Both sexes,19,
+Turkey,2012,Male,18,
+Turkey,2012,Female,23,
+Turkey,2012,Both sexes,21,
+Turkey,2000,Male,17,
+Turkey,2000,Female,21,
+Turkey,2000,Both sexes,19,
+Turkey,1990,Male,16,
+Turkey,1990,Female,20,
+Turkey,1990,Both sexes,18,
+Turkmenistan,2012,Male,15,
+Turkmenistan,2012,Female,17,
+Turkmenistan,2012,Both sexes,16,
+Turkmenistan,2000,Male,14,
+Turkmenistan,2000,Female,16,
+Turkmenistan,2000,Both sexes,15,
+Turkmenistan,1990,Male,14,
+Turkmenistan,1990,Female,17,
+Turkmenistan,1990,Both sexes,16,
+Tuvalu,2012,Male,15,
+Tuvalu,2012,Female,18,
+Tuvalu,2012,Both sexes,16,
+Tuvalu,2000,Male,14,
+Tuvalu,2000,Female,17,
+Tuvalu,2000,Both sexes,15,
+Tuvalu,1990,Male,13,
+Tuvalu,1990,Female,16,
+Tuvalu,1990,Both sexes,14,
+Uganda,2012,Male,16,
+Uganda,2012,Female,17,
+Uganda,2012,Both sexes,16,
+Uganda,2000,Male,14,
+Uganda,2000,Female,16,
+Uganda,2000,Both sexes,15,
+Uganda,1990,Male,14,
+Uganda,1990,Female,16,
+Uganda,1990,Both sexes,15,
+Ukraine,2012,Male,15,
+Ukraine,2012,Female,20,
+Ukraine,2012,Both sexes,18,
+Ukraine,2000,Male,14,
+Ukraine,2000,Female,19,
+Ukraine,2000,Both sexes,17,
+Ukraine,1990,Male,15,
+Ukraine,1990,Female,20,
+Ukraine,1990,Both sexes,18,
+United Arab Emirates,2012,Male,19,
+United Arab Emirates,2012,Female,20,
+United Arab Emirates,2012,Both sexes,20,
+United Arab Emirates,2000,Male,18,
+United Arab Emirates,2000,Female,19,
+United Arab Emirates,2000,Both sexes,18,
+United Arab Emirates,1990,Male,17,
+United Arab Emirates,1990,Female,18,
+United Arab Emirates,1990,Both sexes,17,
+United Kingdom,2012,Male,22,
+United Kingdom,2012,Female,25,
+United Kingdom,2012,Both sexes,24,
+United Kingdom,2000,Male,20,
+United Kingdom,2000,Female,23,
+United Kingdom,2000,Both sexes,21,
+United Kingdom,1990,Male,18,
+United Kingdom,1990,Female,22,
+United Kingdom,1990,Both sexes,20,
+United Republic of Tanzania,2012,Male,17,
+United Republic of Tanzania,2012,Female,18,
+United Republic of Tanzania,2012,Both sexes,18,
+United Republic of Tanzania,2000,Male,16,
+United Republic of Tanzania,2000,Female,17,
+United Republic of Tanzania,2000,Both sexes,16,
+United Republic of Tanzania,1990,Male,15,
+United Republic of Tanzania,1990,Female,16,
+United Republic of Tanzania,1990,Both sexes,16,
+United States of America,2012,Male,21,
+United States of America,2012,Female,24,
+United States of America,2012,Both sexes,23,
+United States of America,2000,Male,20,
+United States of America,2000,Female,23,
+United States of America,2000,Both sexes,22,
+United States of America,1990,Male,19,
+United States of America,1990,Female,23,
+United States of America,1990,Both sexes,21,
+Uruguay,2012,Male,19,
+Uruguay,2012,Female,24,
+Uruguay,2012,Both sexes,22,
+Uruguay,2000,Male,18,
+Uruguay,2000,Female,23,
+Uruguay,2000,Both sexes,21,
+Uruguay,1990,Male,17,
+Uruguay,1990,Female,21,
+Uruguay,1990,Both sexes,19,
+Uzbekistan,2012,Male,16,
+Uzbekistan,2012,Female,18,
+Uzbekistan,2012,Both sexes,17,
+Uzbekistan,2000,Male,15,
+Uzbekistan,2000,Female,18,
+Uzbekistan,2000,Both sexes,17,
+Uzbekistan,1990,Male,16,
+Uzbekistan,1990,Female,20,
+Uzbekistan,1990,Both sexes,18,
+Vanuatu,2012,Male,17,
+Vanuatu,2012,Female,19,
+Vanuatu,2012,Both sexes,18,
+Vanuatu,2000,Male,16,
+Vanuatu,2000,Female,18,
+Vanuatu,2000,Both sexes,17,
+Vanuatu,1990,Male,15,
+Vanuatu,1990,Female,17,
+Vanuatu,1990,Both sexes,16,
+Venezuela (Bolivarian Republic of),2012,Male,21,
+Venezuela (Bolivarian Republic of),2012,Female,24,
+Venezuela (Bolivarian Republic of),2012,Both sexes,23,
+Venezuela (Bolivarian Republic of),2000,Male,20,
+Venezuela (Bolivarian Republic of),2000,Female,22,
+Venezuela (Bolivarian Republic of),2000,Both sexes,21,
+Venezuela (Bolivarian Republic of),1990,Male,18,
+Venezuela (Bolivarian Republic of),1990,Female,20,
+Venezuela (Bolivarian Republic of),1990,Both sexes,19,
+Viet Nam,2012,Male,19,
+Viet Nam,2012,Female,25,
+Viet Nam,2012,Both sexes,22,
+Viet Nam,2000,Male,18,
+Viet Nam,2000,Female,24,
+Viet Nam,2000,Both sexes,21,
+Viet Nam,1990,Male,18,
+Viet Nam,1990,Female,23,
+Viet Nam,1990,Both sexes,20,
+Yemen,2012,Male,15,
+Yemen,2012,Female,17,
+Yemen,2012,Both sexes,16,
+Yemen,2000,Male,15,
+Yemen,2000,Female,17,
+Yemen,2000,Both sexes,16,
+Yemen,1990,Male,15,
+Yemen,1990,Female,16,
+Yemen,1990,Both sexes,16,
+Zambia,2012,Male,16,
+Zambia,2012,Female,18,
+Zambia,2012,Both sexes,17,
+Zambia,2000,Male,14,
+Zambia,2000,Female,16,
+Zambia,2000,Both sexes,15,
+Zambia,1990,Male,14,
+Zambia,1990,Female,16,
+Zambia,1990,Both sexes,15,
+Zimbabwe,2012,Male,17,
+Zimbabwe,2012,Female,19,
+Zimbabwe,2012,Both sexes,18,
+Zimbabwe,2000,Male,15,
+Zimbabwe,2000,Female,16,
+Zimbabwe,2000,Both sexes,16,
+Zimbabwe,1990,Male,17,
+Zimbabwe,1990,Female,18,
+Zimbabwe,1990,Both sexes,18,
