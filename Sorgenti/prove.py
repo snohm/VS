@@ -24,29 +24,39 @@ f.close()
 years = []
 for i in range (1990, 2021, 1): 
     years.append(i)
-print(years)
 f = open("/workspace/VS/DataSet/Carbon dioxide (CO2) Emissions.csv", "r")
 prev = ""
 val = []
 i=0
+label = ""
 line = f.readline()
 elments = line.split(",")
-while line != "":
-    prev = elments[0]
+while line != "" :
+    #prev = elments[0] 
+    #input()
     if elments[0] in nations:
-        for i in range (0, 30, 1):
-            val.append(int(float(elments[2])))
-            prev = elments[0]
+       # print(line)
+        #print(elments[0])
+        if elments[0] == "Australia":
+            i = 30
+        else:
+            i = 31    
+        for j in range (0, 31, 1):
+        #while prev == elments[0]:   
+            val.append(int(float(elments[2])/1000))
+            #print(elments[1])
+            label = elments[0]
             line = f.readline()
             elments = line.split(",")
-        plt.plot(years, val, label = elments[0])
-        print(elments[0])
+        #print(len(years))
+        #print(len(val))
+        plt.plot(years, val, label = label)
         val = []
-        i=i+1
+        #i=i+1
     else:
         line = f.readline()
-        elments = line.split(",")
+        elments = line.split(",")    
 f.close()
-print(i)
+#print(i)
 plt.legend()
-plt.show() # BUG: manca australia
+plt.show() 
