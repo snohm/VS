@@ -24,7 +24,7 @@ f.close()
 years = []
 for i in range (1990, 2021, 1): 
     years.append(i)
-
+print(years)
 f = open("/workspace/VS/DataSet/Carbon dioxide (CO2) Emissions.csv", "r")
 prev = ""
 val = []
@@ -34,12 +34,13 @@ elments = line.split(",")
 while line != "":
     prev = elments[0]
     if elments[0] in nations:
-        while elments[0] == prev:
-            val.append(int(float(elments[2])/1000))
+        for i in range (0, 30, 1):
+            val.append(int(float(elments[2])))
             prev = elments[0]
             line = f.readline()
             elments = line.split(",")
         plt.plot(years, val, label = elments[0])
+        print(elments[0])
         val = []
         i=i+1
     else:
