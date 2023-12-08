@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import pandas as pd
 
 f = open("/workspace/VS/DataSet/Carbon dioxide (CO2) Emissions.csv", "r")
 line = f.readline()
@@ -58,5 +59,6 @@ while line != "" :
         elments = line.split(",")    
 f.close()
 #print(i)
+plt.axes()
 plt.legend()
 plt.show() 
