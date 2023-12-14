@@ -57,4 +57,3 @@ def CoutnCasesPercentage():
     fT.close()
     fP.close()
     return val
-print(CoutnCasesPercentage())
